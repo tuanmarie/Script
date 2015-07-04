@@ -1,0 +1,714 @@
+LuaR  “
+
+         ]h  %     €%@   €€%€    À@  A F@A G€Á ] € @  À C     Á@  FÁ@ GÁÂ ÁA ]€Ö@C AÁ AA € À€VÁ¥Á  €ˆ†D ›  À€†ÁD À  €›  €
+€ÆE ÂE @  Ư   Æ €ÆÁE   Ư ÛA    €Ä  ÀÆAE Û   €ÆÁE    Ư BE  ‚ €ÆAD B FBE BƯA ÆAD ‚ ƯA ÆÁF % A ƯA€@€ÆAD B FBE ‚ ‚ƯA € €ÆAD Â ƯA ¥A €A å À‘åÁ À‘Á	 B	 FH  ÁB ]‚€†ÂH À€  ‚€Á‚	 ĂI ƒ€ A
+ €€ÁC
+  €Ö„ĂD @ €€ƒ€FƒJ GĂÊ€ Á   Ö„]ƒ€[C   €FƒJ GĂÊ€ Á ]ƒ€[  €€FCK ƒ ÁĂ  –]C @€FCK ƒ À  –]C  € C  ƒ  Ă    AD †„L ÁÄ Å AE E „€Æ„L Å AÅ Å ÁE Ư„€…L AÅ Å Á
+ F …€F…L Å ÁE Æ AF ]…€†…L ÁÅ F AÆ Æ …€Æ…L Æ AF F ÁÆ Ư…€†L AÆ Æ ÁF Ç †€F†L Æ ÁÆ Ç AÇ ]†€††L ÁÆ G AG G †€å À†@L›ÆÆM  ƯF  ĂœÀN GÆN %G Ê‡ÆN %‡ ÊŸåÆ À†ŸÆN % Ê ÆN %G Ê‡ Á† Ç C   Ă€ H Kˆ ‹H  ̉£Jˆ£‹H  Ë€É A	 I Á‰ Ê äH€È¥Jˆˆ¤‹ HÔ£ÆÈ@ ÇÈÔÈ©HUªÈU«Jˆ¨‹ HÖ£ˆV©ÈVªW«Jˆ¬‹ˆ ÈW¯HX°ˆX©HUªÈX«HY²Jˆˆ®‹H  ÈÙ£Jˆ³ƒ  Ă  	  C	  ƒ	  Ă	  
+  C
+  J Ă
+    C  ƒ  ÁK   FZ †LZ ÁŒ –̀]Œ [    €C€ eŒ @Œµè @¶e @Œ¶eL @·eŒ @Œ·è @¸e @Œ¸eL @¹AL L Ă  M AÍ †
+] ÍNM]Æ] Ï
+ÇĐÍƯ AN  ÁÎ  €e @¾eÏ @¾F_ †O_ ]O e @¿eO @Àe @ÀeÏ @Áe @ÁA! ¥O €Â‹  å ÀĂÆÏa a ƯO åÏ ÀÄËÏ    Ê¦  ÊÄ  ÊÅ  K  ‹  Ë    K€Ñ" Á# R# A’# ̉# dQ€¥ €È¥Q €‘È¥‘ €É¥Ñ €‘É†e ÆÑd Q †Qe ÆQd Q †‘e Æ‘d Q ‹€ÁÑ% & AR& ¤Q€Ë ’& Ả& ' ÁR' “' AÓ' äQ   Fh ¥	 J’’ĐeR	 @ÑAR ¥’	 €’Ñ¥̉	 €̉¥
+ €’̉¥R
+ €Ó¥’
+ €’Ó¥̉
+ €Ô¥ €’Ô¥R €Ơ‹  Ë̉ “  
+SkÖ
+Ók×Ê“Ơ“  
+Ók×
+“́ØÊØS  
+Ók×Ê“Ù“  
+SmÖ
+“m×ÊÚÓ  
+nÖ
+SL×
+SîØÊ“ÛS  
+ÓîØÊƯÊRõÊRoß 
+pÖ
+ÓÙØ
+“m×
+SïàÊ“ß“  
+ÓpÖ
+“m×ÊáS  
+Ók×ÊâS  
+“q×Ê“â“  
+ÓÙØ
+pÖÊ“ă“  
+ÓÙØ
+SrÖÊäS  
+pÖÊåS  
+pÖÊ“å“  
+SsÖ
+“́ØÊæÊRoç“  
+t×FÓ@ GÓÔ&
+S“ØÊ“çÊRïè“  
+ÓtÖ
+u×ÊéÊRïêS  
+pÖÊëÊRïëÓ  
+SVÖ
+S×
+Ó×ØÊ́S  
+“vÖÊ“́S  
+wÖÊ“íS  
+u×Ê“îÊRoïS  
+øØÊ“ïÊRïđÊRoñÊRïñ“  
+SyÖFÓ@ GÓÔ&
+S“ØÊ̣ÊRoóS  
+Ók×Ê“óÊRoôS  
+SLÖÊ“ôÓ  
+nÖFÓ@ GÓÔ&
+S“Ø
+Óz×Êơ“  
+S{×FÓ@ GÓÔ&
+S“ØÊö“  
+Ó{×FÓ@ GÓÔ&
+S“ØÊ÷“  
+S|×FÓ@ GÓÔ&
+S“ØÊøÓ  
+Ók×
+“vÖ
+øØÊù%“  “ù%Ó  ú%  “ú%S  û%“  “û%Ó  ü%
+  “ü%S
+  ư%“
+  “ư%Ó
+  ₫S F S %  ÿ%S  “ÿÓM A@ S @  e“ 
+S“@  AS@ ¥Ó 
+““&@  A“@ S Ó@ e @&A eS @&  ASA ¥“ €“&A“A ¥Ó €“&AÓA ¥ €“&AB ¥S €“&ASB ¥“ €“&A“B ¥Ó €“&AÓB ¥ €“&AC ¥S €“&ASC ¥“ €“&A“C ¥Ó €“&AÓC ¥ €“&AD ¥S €“&ASD ¥“ €“&A“D ¥Ó €“&AÓD ¥ €“&AE ¥S €“&e“ @“úASE ¥Ó €“&A“E ¥ €“&AÓE ¥S €“&AF ¥“ €“&ASF ¥Ó €“&A“F ¥ €“&Fh ÓF åS JÓ'AG ¥“ €“&ASG ¥Ó €“&FS G †“ ]S FSe SG †“ ]S e @ÈK  “G åS À'ÓG å“ À'H åÓ À'SH å À'“H åS À'ÓH å“ À'I åÓ À'S ÁSI ”I e @( AÔI J ÁTJ %U  •)Á”J %•  •)ÁÔJ %Ơ  •)ÁK %  •)ÁTK %U  •)Á”K %•  •)ÁÔK %Ơ  •)ÁT L e @*%U  ûUL e• @*  KU  ‹• Á•L ÖL –+UY«UUªUn©ÁM VM –+Ă€ ƠœJ•’•M †• •€ ÁƠM ‡Ơ+ÁN ‡Ơ+ËƠ  VN K–  ‹–  Á–N ×N —-ÁO WO —-J–¦‹–  Á–N —O —-ÁO ×O —-J––ÄÊU,P K–  ‹–  Á–N WP —-ÁO —P —-J–¦‹–  Á–N ×P —-ÁO Q —-J––ÄÊU,VQ K–  ‹–  Á–N —Q —-ÁO ×Q —-J–¦‹–  Á–N R —-ÁO WR —-J––ÄÊU, 
+V̀˜
+VL†
+V̀
+VL
+V̀»
+VLÍA–R 
+V̀,
+VL¼
+V̀ÍAÖR 
+V̀,AS 
+V̀,
+VLÎAVS 
+V̀,A–S 
+V̀,AÖS 
+V̀,
+V̀¹AT VT 
+––,A–T 
+V̀,
+VL½AÖT 
+V̀,AU 
+V̀,
+V̀Î
+VLÏAVU 
+V̀,A–U 
+V̀,
+V̀¼AÖU 
+V̀,AV 
+̃,AVV 
+V̀,
+V̀ÏA–V 
+V̀,AÖV 
+V̀,AW ÖV 
+––,AVT ÖR 
+––,AVW 
+V̀,A–W 
+V̀,AÖW 
+V̀,AX 
+–̃,AVX 
+V̀,A–X ÖU 
+––,
+VL®AÖX 
+V̀,AY 
+V̀,AVY 
+V̀,A–Y 
+V̀,AÖY –T 
+––,AZ 
+V̀,AVZ U 
+––,A–Z 
+V̀,AÖZ 
+V̀,A[ 
+V̀,AV[ 
+V̀,A–[ 
+V̀,AÖ[ 
+V̀,A\ 
+V̀,AV\ 
+V̀,A–\ 
+V̀,AÖ\ 
+V̀,A] 
+V̀,AV] 
+V̀,
+Ṽ«A–] 
+V̀,AÖ] 
+V̀,A^ ÖT 
+––,AV^ 
+V̀,A–^ 
+V̀,AÖ^ 
+V̀,A_ 
+V̀,AV_ 
+V̀,A–_ 
+–æ,
+ÖÜ±AÖ_ 
+V̀,A` 
+V̀,AV` 
+V̀,A–` 
+V̀,
+V̀¥AÖ` 
+V̀,Aa 
+V̀,AVa W 
+––,A–a 
+V̀,AÖa 
+V̀,Ab 
+V̀,AVb 
+V̀,A–b 
+V̀,AÖb 
+V̀,Ac 
+V̀,AVc 
+V̀,A–c 
+V̀,AÖc 
+V̀,Ad 
+V̀,AVd 
+V̀,A–d 
+V̀,AÖd 
+V̀,Ae 
+V̀,AVe 
+V̀,A–e 
+V̀,AÖe 
+V̀,Af 
+Öæ,AVf 
+V̀,A–f 
+V̀,
+VL¦AÖf 
+V̀,Ag 
+V̀,AVg 
+V̀,A–g 
+V̀,AÖg 
+V̀,Ah 
+Öç,AVh 
+V̀,A–h 
+V̀,AÖh 
+V̀,Ai 
+V̀,AVi 
+V̀,A–i 
+V̀,AÖi 
+V̀,Aj 
+V̀,AVj 
+V̀,A–j 
+V̀,AÖj 
+V̀,Ak 
+V̀,AVk 
+V̀,A–k 
+V̀,AÖk 
+V̀,Al 
+V̀,AVl 
+V̀,A–l 
+V̀,
+V̀¦AÖl 
+V̀,Am –U 
+––,
+VLAVm 
+V̀,A–m 
+V̀,AÖm 
+V̀,An 
+V̀,AVn 
+V̀,A–n 
+ç,AÖn 
+V̀,Ao 
+V̀,AVo –V 
+––,A–o 
+V̀,AÖo 
+V̀,
+V̀²Ap 
+V̀,AVp 
+V̀,A–p 
+V̀,AÖp 
+V̀,Aq 
+V̀,AVq 
+–ç,A–q 
+V̀,AÖq 
+Vç,Ar V 
+––,
+VL§AVr 
+V̀,A–r 
+V̀,AÖr 
+V̀,As 
+V̀,AVs 
+V̀,A–s VU 
+––,AÖs 
+V̀,At 
+V̀,AVt 
+V̀,A–t 
+V̀,AÖt 
+V̀,Au 
+V̀,AVu 
+V̀,A–u 
+V̀,AÖu 
+V̀,Av 
+V̀,AVv 
+V̀,A–v 
+V̀,AVI 
+V̀,
+V̀ºAÖv 
+V̀,Aw 
+V̀,AVw 
+V̀,A–w 
+V̀,
+V̀§AÖw 
+V̀,Ax 
+V̀,AVx 
+V̀,A–x 
+V̀,AÖx 
+V̀,Ay 
+V̀,AVy T 
+––,A–y 
+V̀,AÖy 
+V̀,Az 
+V̀,AVz 
+V̀,A–z VV 
+––,AÖz 
+V̀,A{ 
+V̀,AV{ 
+V̀,A–{ 
+V̀,AÖ{ 
+V̀,A| 
+V̀,AV| 
+V̀,A–| 
+V̀,AÖ| 
+V̀,A} S 
+––,AV} 
+V̀,A–} 
+V̀,
+V̀ÄAÖ} 
+V̀,A~ 
+V̀,AV~ 
+V̀,A–~ 
+V̀,AÖ~ 
+V̀,A 
+V̀,AV V^ 
+––,A– 
+V̀,AÖ 
+V̀,A€ 
+V̀,AV€ 
+V̀,A–€ 
+V̀,AÖ€ 
+V̀,A 
+V̀,AV –S 
+––,A– 
+V̀,AÖ 
+V̀,A‚ 
+V̀,AV‚ 
+V̀,A–‚ 
+V̀,AÖ‚ 
+V̀,Aƒ 
+V̀,AVƒ 
+V̀,A–ƒ 
+V̀,AÖƒ 
+V̀,A„ 
+V̀,AV„ 
+V̀,A–„ 
+V̀,AÖ„ 
+V̀,A… 
+V̀,AV… 
+V̀,A–… 
+V̀,AÖ… 
+V̀,A† –R 
+––,AV† 
+V̀,A–† 
+V̀,AÖ† 
+V̀,A‡ 
+V̀,AV‡ 
+V̀,A–‡ 
+V̀,AÖ‡ 
+V̀,Aˆ 
+V̀,AVˆ 
+V̀,A–ˆ 
+V̀,AÖˆ 
+V̀,A‰ 
+V̀,AV‰ 
+V̀,A–‰ 
+V̀,AÖ‰ VW 
+––,A 
+V̀,AV 
+V̀,A– 
+V̀,AÖ 
+V̀,A‹ 
+V̀,AÖS 
+V–™K JV̀˜JVL†JV̀JVLJV̀»JVLÍ–R JVL-ÖS J–¼JV̀ÍÖR JVL-S JVL-JVLÎVS JVL-–S JVL-ÖS JVL-JV̀¹T JVL-–T JVL-JVL½ÖT JVL-U JVL-JV̀ÎJVLÏVU ÁT JÖ-–U JVL-JV̀¼ÖU JVL-V JVL-VV JVL-JV̀Ï–V JVL-ÖV Á–T JÖ-W JVL-VT JVL-VW JVL-–W JVL-ÖW JVL-X JVL-VX JVL-–X J–^-JVL®ÖX JVL-Y JVL-VY JVL-–Y JVL-ÖY JVL-Z JVL-VZ JVL-–Z JVL-ÖZ JVL-[ JVL-V[ JVL-–[ JVL-Ö[ JVL-\ JVL-V\ JVL-–\ JVL-Ö\ JVL-] JVL-V] JVL-JV̀«–] JVL-Ö] JVL-^ JVL-V^ JVL-–^ JVL-Ö^ JVL-_ JVL-V_ JVL-–_ JVL-JV̀±Ö_ JVL-` JVL-V` JVL-–` JVL-JV̀¥Ö` JVL-a JVL-Va JVL-–a ÁV JÖ-Öa JVL-b JVL-Vb JVL-–b JVL-Öb JVL-c JVL-Vc JVL-–c JVL-Öc JVL-d JVL-Vd JVL-–d JVL-Öd JVL-e JVL-Ve JVL-–e JV^-Öe JVL-f JVL-Vf JVL-–f JVL-JVL¦Öf JVL-g JVL-Vg ÁÖU JÖ-–g JVL-Ög JVL-h JVL-Vh JVL-–h JVL-Öh JVL-i JVL-Vi ÁÖV JÖ-–i JVL-Öi JVL-j JVL-Vj JVL-–j JVL-Öj JVL-k JVL-Vk ÁVV JÖ-–k JVL-Ök JVL-l JVL-Vl JVL-–l JVL-JV̀¦Öl JVL-m JÖg-JVLVm JVL-–m JVL-Öm JVL-n JVL-Vn JVL-–n JVL-Ön Á–V JÖ-o JVL-Vo JVL-–o JVL-Öo JVL-JV̀²p JVL-Vp JVL-–p JVL-Öp JVL-q JVL-Vq JVL-–q JVL-Öq JVL-r JVL-JVL§Vr ÁW JÖ-–r ÁV^ JÖ-Ör JVL-s JVL-Vs JVL-–s JVL-Ös JVL-t JVL-Vt ÁVT JÖ-–t JVL-Öt JVL-u JVL-Vu JVL-–u JVL-Öu JVL-v JVL-Vv ÁVW JÖ-–v JVL-VI JVL-JV̀ºÖv JVL-w JVL-Vw JVL-–w JVL-JV̀§Öw JVL-x JVL-Vx JVL-–x JVL-Öx JVL-y JVL-Vy JVL-–y JVL-Öy JVL-z JVL-Vz JVL-–z JVL-Öz JVL-{ JVL-V{ J–f-–{ JVL-Ö{ JVL-| JVL-V| JVL-–| JVL-Ö| JVL-} JVL-V} JVL-–} JVL-JV̀ÄÖ} JVL-~ JVL-V~ JVL-–~ JVL-Ö~ JVL- JVL-V JVL-– JVL-Ö JVL-€ JVL-V€ JVL-–€ JVL-Ö€ JVL- JVL-V JVL-– JVL-Ö JVL-‚ JVL-V‚ JVL-–‚ JVL-Ö‚ JVL-ƒ JVL-Vƒ JVL-–ƒ JVL-Öƒ JVL-„ JVL-V„ JVL-–„ JVL-Ö„ JVL-… JVL-V… JVL-–… JVL-Ö… JVL-† JVL-V† JVL-–† JVL-Ö† JVL-‡ JVL-V‡ JÖ\-–‡ JVL-Ö‡ JVL-ˆ JVL-Vˆ JVL-–ˆ JVL-Öˆ JVL-‰ JVL-V‰ JVL-–‰ JVL-Ö‰ JVL- JVL-V JVL-– JVL-Ö JVL-‹ JVL-–S J––™V‹ åÖ À-–‹ å À-Ö‹ åV À-Œ å– À-VŒ åÖ À-–Œ å À-ÖŒ åV À- å– À-V åÖ À-– å À-†e ÁV‹ ÆÖ V †V ÁV ÆÖ V Ö †– ÁÖ‹ ÆÖ V  € 8     Core_AuthSystem    BigFatInception    lalka    math    randomseed    os    time    0.47    raw.github.com B   /BigFatNidalee/BoL-Releases/master/LimitedAccess/Big Fat Jinx.lua    ?rand=    random       đ?     ˆĂ@   SCRIPT_PATH    Big Fat Jinx.lua 	   https://    AutoupdaterMsg    AUTOUPDATE 
+   GetWebResult M   /BigFatNidalee/BoL-Releases/master/LimitedAccess/versions/BigFatJinx.version    ServerVersion    type 	   tonumber    number    New version available     Updating, please don't press F9    DelayAction       @"   You have got the latest version (    )    Error downloading version info 
+   GetRandom    Jinx4WinMotherfuckers    BigFatStrToArr    GetBigFatValue    Jinx    bigfatcorki.de *   /wp-content/plugins/auth/check.php?login=    GetUser 	   &script=    &count=    string    find 	   Success! 
+   PrintChat    <font color='#ff0000'> H   Auth error. Please Redownload lastest version. Or wait till Autoupdate.    </font>            ARGB      ào@      `@   table_whitelist 	   uniqueId    class 
+   Collision 	   HERO_ALL    HERO_ENEMY        @
+   HERO_ALLY    __init    GetMinionCollision    getHitBoxRadius 
+   GetCollision    GetHeroCollision    Private: Big Fat Jinx 
+   Big Fat Team 1   uncomment requered autor if autorboolean is true !   Big Fat Corki's choice for SOLOQ    AA    Range      h€@   Q    BRange      ÀR@      Y@     @_@     Àb@     àe@   W      ¨–@   Speed    huge    Delay 333333ă?   Width       N@   E       Œ@     0¡@      Đ?      D@   R 	   MinRange      p—@	   MaxRange      ”±@     à @     €Q@   CWidth      €a@   White      ˆ£@
+   FileExist    SPRITE_PATH +   BigFatSprites/others/bigfatsprites.version    PushCommand 
+   PlaySound 
+   BFW_initiate    OnLoad    MainMenuOP    extendedcontent    fix_nil_harass    LoadMorePlx       .@	   WINDOW_W      @e@	   WINDOW_H       @      @      9@      2@     0u@   ChInitAndDrawSp    Timer_Draw    AddDrawCallback    OnTick    look_for_orbwalk    GetMode    Q_extra_logic    Q_extraforceminigun    1.0    isValid    vangaWindingFix    AddProcessSpellCallback    Tick       i@     Àr@
+   SightWard    TheDoomBall    Portal to the Void 	   FakeCrab    ward 	   inString    ObjectsOnCreate_    ObjectsOnDelete_    ObjectsOnLoad_    AddLoadCallback    AddCreateObjCallback    AddDeleteObjCallback    Stun 
+   Pulverize    jinxeminesnare       @       @      &@      5@      6@      =@   table 	   contains    OnApplyBuff    BigFatVanga    Cosin    CheckObjectForCollision    BigFatMinionCollision    BigFatMinionCollisionDebug    BigFatHeroCollision 
+   MovementPred    GetDist    ahritumble    r       |@   ex      @À   akalishadowdance    sp      X«@	   headbutt    caitlynentrapment       yÀ      YÀ   carpetbomb       ‰@     @   dianateleport      p§@   fizzpiercingstrike 	   fizzjump    gragase      À‚@   fx    gravesmove      z@   ireliagatotsu    jaxleapstrike       iÀ   khazixe    khazixelong      @@
+   leblancslide    leblancslidem    luciane      Đ{@   maokaiunstablegrowth    pantheonrfall      ø¡@   renektonsliceanddice    rivenfeint      Pt@     @oÀ   sejuaniarcticassault    shenshadowdash    shyvanatransformcast 
+   tristanaw 
+   slashcast      @@   vaynetumble      €q@   monkeykingnimbus    yasuodashwrapper 
+   xenzhaosweep      ˆ³@   gnare    azire    poppyheroiccharge    deceive       y@   aatroxq    fioraq    braumw    quinne 
+   crowstorm      8˜@   gate      À’@   zhonyashourglass      h @   lifeaura.troy      ̀°@   summonerflash    Dashes_CreateObj 
+   isDashing    GetWordByName    GetEnemyFromPos    isWall    GetWallAvoidPls    vRotate    Dashes_OnProcessSpell    ClearDashes    Dashes_Tick    AddTickCallback    GetSkillshotTravelTime    VangaOnDash 
+   ScriptStatus    SendUpdate    SFIHFLFKLIE    OnLoad_Old 
+   LoadMenu_Old    JinxBeforeAAController    VarsRefresh    GetComboDamage    Combo    Harass 	   PerformQ 	   PerformW 	   PerformE 	   PerformR    GetAADamage    GetQDamage    GetWDamage    GetEDamage    GetRDamage    GetAllyNear 
+   KillSteal    GetTargetADWhitelisted    GetTargetAD    GetTargetAP 	   PredictW 	   PredictE 	   PredictR    del    MinigunStucks_Tick    MinigunStucks_CreateObj 
+   IsAutoAttack 
+   DrawLineA    DrawFPSCircle    OnCreateObj    OnDeleteObj    OnProcessSpell 
+   DrawDebug       e@   GetBarWidth       PÀ      AÀ   DrawDamageLine    GetMyRealRangeSimple    GetMyRealRangeQBased    GetMyRealRange    DrawHP    DrawHPLine    DrawUltLine    OnDraw    Jinx_BeforeAA    DmgM Í̀̀̀̀̀́?   Accelerate      d¹@   GetGame    map 
+   shortName 
+   summonerRift    x      Àx@   z      à|@     ̀@     ̀@   twistedTreeline      @     ¼@     øË@     C¼@   crystalScar      X€@     C°@    €Ê@     A°@      @      "@      $@      (@      *@      ,@      0@     €@@      1@      3@      4@      7@      8@      :@      ;@      <@      >@      ?@      @@      A@     €A@      B@     €B@      C@     €C@     €D@      E@     €E@      F@     €F@      G@     €G@      H@     €H@      I@     €I@      J@     €J@      K@     €K@      L@     €L@      M@     €M@     €N@      O@     €O@      P@     @P@     €P@     ÀP@      Q@     @Q@     ÀQ@      R@     @R@     €R@      S@     @S@     €S@     ÀS@      T@     @T@     €T@     ÀT@      U@     @U@     €U@     ÀU@      V@     @V@     €V@     ÀV@      W@     @W@     €W@     ÀW@      X@     @X@     €X@     ÀX@     @Y@     €Y@     ÀY@      Z@     @Z@     €Z@     ÀZ@      [@     @[@     €[@     À[@      \@     @\@     €\@     À\@      ]@     @]@     €]@     À]@      ^@     @^@     €^@     À^@      _@     €_@     À_@      `@     @`@     ``@     €`@      `@     À`@     à`@      a@      a@     @a@     `a@      a@     Àa@     àa@      b@      b@     @b@     `b@     €b@      b@     àb@      c@      c@     @c@     `c@     €c@      c@     Àc@     àc@      d@      d@     @d@     `d@     €d@      d@     Àd@     àd@      e@     `e@     €e@      e@     Àe@      f@      f@     @f@     `f@     €f@      f@     Àf@     àf@      g@      g@     @g@     `g@     €g@      g@     Àg@     àg@      h@      h@     @h@     `h@     €h@      h@     Àh@     àh@      i@     @i@     `i@     €i@      i@     Ài@     ài@      j@      j@     @j@     `j@     €j@      j@     Àj@     àj@      k@      k@     @k@     `k@     €k@      k@     Àk@     àk@      l@      l@     @l@     `l@     €l@      l@     Àl@     àl@      m@      m@     @m@     `m@     €m@      m@     Àm@     àm@      n@      n@     @n@     `n@     €n@      n@     Àn@     àn@      o@      o@     @o@     `o@     €o@      o@     Ào@   BaseUltLoad 	   GameTime    BaseUltRcv    GetBaseUltDamage    CalcBaseUltTime    SimpleHeroCollision    IsRecalling    DecodeRecallName    BaseUltTick    LaunchBaseUlt    AddRecvPacketCallback2 u              €                                       F @ †@@ ]@  €       lalka    lalo4ka                                    F @ †@@ ]@  €       BigFatInception 
+   Inception                                    F @ @  À     – ]@  €       print C   <font color='#c9d7ff'>Big Fat Jinx: </font> <font color="#FFFFFF"> 	   .</font>                                      @ E € …  å   @  €    
+   DownloadFile            	    @ A@  … € Á€  Á@ A V@ @  €       AutoupdaterMsg    Successfully updated. (     =>     ServerVersion /   ), press F9 twice to load the updated version.                                                    %       † @ ‡@@@€ † @ ‡@@€€ Î € @ @OÁ  
+   €       math    random    round                          '   +       K   Œ @ A  e  @ _   €       gsub    .    )   )    	   F @ G@À … € Æ€@ ÇÀÀ   Ư  ]@   €       table    insert    string    byte                                               ,   8        † @ À € € Ç@@Í@ÀÏÀ    F@ € ] €  @€‡ ‚‚ÇĂ@ A@  C ƒ€ 
+C@ÏƒÍÀ  €€ b  ăûß   €       BigFatStrToArr       đ?   pairs    math    pow        @                         Y   q     '        € @ 
+€À€ @ 
+€À @ 
+€@‚ @ 
+€À‚ @ 
+€@ƒ @ 
+€Àƒ @ 
+€@„ @ 
+€À„ @ 
+€@… @ 
+€À… @ 
+€@† @ 
+€À† @ 
+€@‡ @ 
+€À‡ @ 
+€@ˆ @ 
+€Àˆ @ 
+€@‰ @ 
+€À‰ €       whitelisted    Ashe    Caitlyn    Corki    Draven    Ezreal    Graves    Jinx    KogMaw    Lucian    MissFortune    Quinn    Sivir 	   Tristana    Twitch    Urgot    Varus    Vayne    Kalista                          €   ‹    
+   F@ MAÀ@€F@ 
+@€
+@ 
+€€
+À ‚PA
+@‚FB †AB Á ÂB FC ]€
+@ƒ
+€Ă† €    	   uniqueId       đ?   sRange 
+   projSpeed    sDelay    sWidth        @
+   enemyMinions    minionManager 
+   MINION_ENEMY      @Ÿ@   myHero    MINION_SORT_HEALTH_ASC 
+   minionupdate                                     Ư    02  Ç @ ̀@ÀƯ@ Æ€@  € @ Ư€€Á@   À€AA GA ‡ÁA ÇB BB € ‚€€B GA ‡ÁA ÇB BB € ‚  GA À€  €Ç€A FÁB € ] †ÁB À€  NŒĂ ̀AĂƯ ̀ĂƯ ‚C̀‚ĂƯ‡ĂĂ ÇCB ÏĂƒĂÇÄ DB Í„DÄ GDB OD„
+DGÄĂ ‡DB „„M„„Ä M„„‡Ä ÇDB ÏÄÄ	ÏÄ€Ä	ÇDÄ EB …Í…	Å Í…	ÅĂ GEB OE…E
+GÄ ‡EB …N……
+‡EÄ ÇEB ÏÅ…ÅÇÅĂ FB †Î†Æ Í†Ä GFB OFFOÆ€
+FGFÄ ‡FB ††N††Æ M††††D ÆÆD   @€€ Ư †  Æ†D ÇD @€€ 	À€	 Ư†  ‡D FÇD € 
+À€
+  ] ‡  F‡D †ÇD À€  @€ ]‡  †E ÆGE ÈC
+GD
+Ư‡€HE GÈĂ
+‡Ä
+ˆ€FHE ‡ÈCÇD]ˆ€†HE ÇÈĂ	Ä€‡  Æ‡E @ ÈEƯ€!€X Æ !€IÆ	  @ €‰ÆI  €€‰@ @	€ €	€‰€À  €	A ÉF€	€	Æ	G JE @
+ €
+ €FJE €
+€À
+€	]
+€Ư‰  
+G FJE €
+ 
+À
+ ]€†JE À
+€ €
+€  D
+€ X F@€ÆD ËD GËĂ‡ÄÇKÄ Ư  @
+€ÆJE ËĂGÄƯ€€
+€ €ÆD ËD GËĂ‡ÄÇKÄ Ư  @
+€ÆJE ËĂGÄƯ€€
+€̀JG@ Ư€Û
+  @€ÆG ÇÊÇ  @€ƯJ€À
+€X F €ÆJE ËCGKDƯ€̀JÈ@€Ư€À
+ÆJE ËCGKDƯ€̀JÈ@ Ư€À
+‘À€ÆJE ËĂGKÄƯ€̀JÈ@€Ư€À
+ÆJE ËĂGKÄƯ€̀JÈ@ Ư€À
+‘Æ
+H ËH @€‹ I
+KIY ‹À€ÆH ËH @€‹ I
+KI ‹ €ÆG ÇÊÇ  @€ƯJ€â‡  cˆƯƠ À“À €Ă€   ß€€ €Ă    ß€ € '   
+   enemyMinions    update    GetDistance 	   VIP_USER    colpredictionm    TargetPredictionVIP    sRange 
+   projSpeed    sDelay    sWidth    TargetPrediction    Vector    normalized    perpendicular2    unpack    x    y    z    WorldToScreen    D3DXVECTOR3    Polygon    Point    pairs    objects     valid    dead    GetPrediction    LineSegment 	   contains    table    insert 
+   distance1 	   distance 
+   distance2    getHitBoxRadius        @      $@                                 ß   á       F @ €   Ç@@ ]€€P€À _   €       GetDistance    minBBox        @                         ă   ơ    .   ̀ @ @€ € ƯÀ LA@ À€   F‚@ ]Á€Û@  € €À€  ß€[A  € €À€  ß€Ë  Â@ @  €FA GCÁ€€À ]C€"‚  £₫Â@ @  €FA GCÁ€€À ]C€"‚  £₫€ @€€ €       GetMinionCollision    GetHeroCollision    HERO_ENEMY    pairs    table    insert                          ÷   N   2`   À  €Æ@@   A  †Á@ ‡AÁ  aÁ	€FÂ@ LBÁÀ ]‚€†B@ X€‚€ €†‚A €‚€€‡ÂÁÆB ÇÂÁXÀ@€†BB ‡‚BÀ  €B€€€†ÂB X€‚€ €†‚A €‚ €‡ÂÁÆB ÇÂÁÀÀ€‡Ă›B   €†BB ‡‚BÀ  €B€`ơFAC €€ À ]€†C ›  À€†D ÇAD ‚D GÂD ‡E €€‡€€†AE ÇAD ‚D GÂD ‡E €€‡‹  ÇAD @  €GAD ÆE   Ư ‚E @€ ‚ Î‚ÂÅ‚ LÆ]‚ LÂÅ]‚ ŒBFLCÆ]„Æ GE OD„
+DGÄÆ ‡E „M„„‡Ç ÇE ÏÄ„Ä	Ç„Æ E …Í…	EÍ…	ÅÆ GE OE
+E
+OE
+E
+GÇ ‡E ……M……
+EM……
+‡…Æ ÇE ÏÅ…ÅÇÅÆ E Î†Ç GE OF†FG†Æ ‡E ††N††FM††‡ÆÆ ÇE ÏÆÆ
+ÏFÆ
+ÇÇ E ‡Î‡
+GÍ‡
+GG F‡G € À€  	] ‡  FGG †‡G À€	  
+@€
+ ]‡  †GG Æ‡G   @€€ Ư ‡  ÆGG ˆG @€€ 
+À€
+ Ư‡  ÈG FH ‡ˆFÇÈF]ˆ€†H ÇˆÆÉÆˆ€ÆH ‰FGÉFƯˆ€	H G‰Æ‡ÉÆ	€ˆ  FHH € ]€!€X À !€‡‰È›	  @ €‡ÉÈ›I  €€†IC À	€  
+€‰€@ €†ÉC Œ	I 
+€	FJI †
+H À
+   	€Æ
+H  €	@€
+Ư
+€]  †JI Æ
+H   @ Ư€H @€€€
+€  Ä
+€ X @@€FKG †‹G Ç‹F̀ÆGG ]‹  À
+€FH ‡‹ÆÇËÆ]‹€ € €FKG †‹G Ç‹Æ̀ÆGÇ ]‹  À
+€FH ‡‹ÆÇËÆ]‹€ €L‹IÀ ]‹€[  @€FKB G‹Â€ À€]K€À
+€X @ €FH ‡‹FÇG]‹€LÊÀ€]‹€@‹“FH ‡‹FÇG]‹€LÊÀ ]‹€@‹”À€FH ‡‹ÆÇÇ]‹€LÊÀ€]‹€@‹“FH ‡‹ÆÇÇ]‹€LÊÀ ]‹€@‹”FËI †‹J À€‹ ËJKY€‹À€FKJ †‹J À€‹ ËJK€‹ €FKB G‹Â€ À€]K€bˆ  ăˆƯU @ˆ–À €C€ € _€€ €C  € _€ € .       HERO_ENEMY       đ?   heroManager    iCount    GetHero 	   HERO_ALL    team    myHero    table    insert 
+   HERO_ALLY    isMe    GetDistance 	   VIP_USER    colpredictionh    TargetPredictionVIP    sRange 
+   projSpeed    sDelay    sWidth    TargetPrediction    Vector    normalized    perpendicular2    unpack    x    y    z    WorldToScreen    D3DXVECTOR3    Polygon    Point    pairs    valid    dead    GetPrediction    LineSegment 	   contains 
+   distance1 	   distance 
+   distance2    getHitBoxRadius        @      $@                                   œ      E   [@  €€F@À €  ]€ H@ €F À G Á @ Á€ ]€€H@€FÀÀ XÀÁ  €FÀÀ L Â À   ]@€ €E   [@  @ €C € I    € 	   
+   LuaSocket    require    socket 
+   ScriptSocket    connect 
+   localhost      €l@    send        0                    ¡      [@    €A   †@@ Á€     AÁ  @† A Á@  € A €  Ö€@  €          Y@   SPRITE_PATH    BigFatSprites\sounds\    .wav    PushCommand    Play                                £  ®    %    @ A@  @  F€@ @  V€€ †À@ À € € ›   À €† A ‡@AX€A€€À Á  AB BAÁ  €Ö AC A € À€VÁ€  å  A ÁC A A ƒ € ‰ €  €    	   LIB_PATH    Big Fat Orbwalker.lua    SCRIPT_PATH 
+   FileExist    _G    BigFatOrb_Loaded    raw.github.com M   /BigFatNidalee/BoL-Releases/master/LimitedAccess/Big Fat Orbwalker.lua?rand=    math    random       đ?     ˆĂ@
+   DownloadFile 	   https://    require    Big Fat Orbwalker    ©  ©        €                                  +                ²  ´        @ @€  €       MainMenuOP                          µ  è    	û    @ @€ €@ E € … € €€ €€@@ À@   Á@ @ @@ @A €A À Á  AB A ‹ ÁÁ  ¤A @€@@ @A €A @ Á€ ÁC A @ @@ @A €A @ Á€ ÁC A @   @  @€@@ À@ À Á  @  €@@ À@ @ Á  @ @@  E €A € ÁÀ F C€ @   @  À€@@  E €A @ Á€ F C€ @ @@  E €A À Á  F C€ @ @@  E €A @ Á€ AB AÁ ‹ Á B ¤A @€@@  E €A € ÁÀ F C  @ @@  E €A  	 Á@	 F C  @      €€@@  E €A €	 ÁÀ	 F C€ @ @@  E €A  
+ Á@
+ F C€ @ @@  E €A €
+ ÁÀ
+ K AA  ÁA ‚ @€@@ €A À ÁÀ AB AÁ ‹ Á B ¤A @€@@ €A € Á  ÁC A @ @@ €A À Á  € A
+ …€Á ÖÀÁC A @   @  €€@@ €A @
+ Á€
+ €A Ö@ÁC A @ À€@@ €A @
+ Á€
+ €A Ö@ÁC A @ @@ €A @
+ ÁÀ
+  A Ö@ÁC A @  €    €@@ €A   Á   Ö ÁC A @ €N FÀN † Ï‡@OÆ€O €  €œ@N 
+ ĐŸ@P A€ … € ÁÀ €A †AQ € Á VÀ @ ÀQ F R @ V€€ € @  @€@P A€ … € Á€ VÀ€ @  € 	   € K      table_whitelist    GO 
+   scriptConfig    addSubMenu    [Mode]    MD 	   addParam    mode    Settings Mode:    SCRIPT_PARAM_LIST       đ?   Recommended    Expert    fuckingMenuFix *   If you want to change back to Recommended    SCRIPT_PARAM_INFO        fuckingMenuFix1    change it and press double f9    [Draws]    DR    [Draws & More]    DRpk    Show Damage on HPBars    SCRIPT_PARAM_ONOFF    DRbr    Draw BaseUlt bars    DRaa    Draw AA Range    DRam    Current AA Methode         @   Current Range    Both    DRww 
+   Draw W Range    DRee 
+   Draw E Range    M4sp    Enable PossibleKill Sprite    M4so    Enable PossibleKill Sound    M4vol    Volume    SCRIPT_PARAM_SLICE       Y@           Patch    5.9    5.10    about1    about2     v.     about3    by     Autor:     about4    ts    TargetSelector    TARGET_LESS_CAST_PRIORITY    W    Range    DAMAGE_PHYSICAL    name    Target  
+   PrintChat    <font color='#c9d7ff'> $   : </font><font color='#64f879'> v.  R    </font><font color='#c9d7ff'> loaded, welcome back</font> <font color='#64f879'>    GetUser 	   !</font> 
+   FileExist    SPRITE_PATH +   BigFatSprites/others/bigfatsprites.version Œ   : </font><font color='#64f879'> Big Fat Mark 4 not found ='(. Its recommended to use with Big Fat Mark 4 for best gaming experience!</font>          -  !"                ́  _    é   @ @@ €  ÁÀ  @  @ À@  A @ Á€ ÁA A @  @ À@  A @ Á€ ÁB A A Á B @€ @ À@  A À Á  ÁB AA A Á B @€ @ À@  A € ÁÀ ÁA A @  @ À@  A   Á€ ÁB A A Á B @€ @ À@  A @ Á€ ÁA A @  @ À@  A À Á€ ÁB AA A Á B @€ @ À@  A   Á  ÁA A @  @ À@  A @ Á€ ÁA A @  @ À@  A À Á  ÁA A @  @ À@  A @ Á€ ÁA A @  @ À@  A À Á  ÁA A @  @ À@  A @ Á€ ÁA A @  @ @@ À Á 	 @  @  I  A @	 Á€	 ÁA A @ À	 F J ]€€ U € À	 ! €J € Á F@ GÉLÁÁA
+ ‚JÖ‚ÂJFK ƒ  ]A  @ü @  I  A @ Á€ ÁA A @ À	 F J ]€€ U € À	 ! €J € Á F@ GÉLÁÁÁ ‚JÖ‚ÂJFK ƒ  ]A  @ü @  I  A   Á  ÁA A @  @  I  A   Á@ K C  @  @  I  A € ÁÀ K C  @  @  I  A  
+ Á@
+ ÁB A
+ Á
+ Á B @€ @ @@ @ Á€ @  @ €N  A À Á  K C€ @  @ €N  A   Á  ÁA A @  @ €N  A @ Á€ ÁB A A Á B @€ @ €N  A À Á  ÁA A @  @ €N  A   Á@ K C€ @  @ €N  A € Á  ÁA A @  @ €N  A À Á  K C€ @  @ €N  A @ Á€ ÁB AÁ A Æ̉ ÇẢB @€ @ €N  A € ÁÀ K C  @  @ €N  A   Á  ÁA A @  @ €N  A @ Á€ K C€ @  @ €N  A À Á  ÁB FAÔ GÔ†AÔ ‡TÆAÔ ÇÁÔB @€ @ €N  A   Á@ ÁB FAÔ GÁÔ†AÔ ‡ÁTÁ B @€ @ €N  A À Á  K C  @  @ €N  A @ Á€ ÁB AA A Á B @€ @ @@ À Á  @  @  W  A @ Á€ K C€ @  @  W  A À Á  K C€ @  @  W  A @ Á€ K C€ @  @  W  A À Á  K C€ @  @  W  A À Á@ ÁA A @  @  W  A @ Á€ ÁA A @  @ @@ € ÁÀ @  @ ÀY  A   Á@ K C€ @  @ ÀY  A € ÁÀ K C€ @  @ ÀY  A   Á@ K C€ @  @ ÀY  A   Á  ÁA A @  @ ÀY  A € ÁÀ K C€ @  @ ÀY  A À Á  ÁA A @  @ ÀY  A   Á€ ÁB AA A Æ̉ ÇẢB @€ @ ÀY  A € ÁÀ K C  @  @ ÀY  A € Á  ÁA A @  @ ÀY  A À Á  ÁB AA A Á B @€ @ ÀY  A € ÁÀ ÁB A A Á B @€ @ ÀY  A @ Á€ K C€ @  @ ÀY  A   Á  ÁA A @  @ ÀY  A À Á  K C€ @  @ ÀY  A @ Á€ ÁB AÁ A Æà ÇẢB @€ @ ÀY  A @  Á€  K C  @  @ ÀY  A À  Á ! K C€ @  @ ÀY  A @! Á€! K C€ @  @ ÀY  A À! Á  ÁA A @ À	 F J ]€€ U € À	 !€€J € Á Fb  ÇÁJ –G@âÀ€F@ GÁÙLÁÇJÂJFK ƒ€ ]A Fb  ÇÁJ –G€âÀ€F@ GÁÙLÁÇJÂJFK ƒ  ]A  Àö @ @@ À ÁÀ" @  @ Àb  A  # Á@ K C€ @  @ Àb  A @# ÁÀ K C€ @  @ Àb  A €# Á@ K C€ @  @ Àb  A   Á  ÁA A @  @ Àb  A À# ÁÀ K C€ @  @ Àb  A  $ Á€ ÁB AÁ A Æ̉ ÇẢB @€ @ Àb  A @$ ÁÀ K C  @  @ Àb  A À Á  ÁA A @  @ @@ €$ ÁÀ$ @  @ Àd  A  % Á@% K C€ @  @ €e †Àe @€ @  A   Á  ÁA A @  @  A  & Á@& K C€ @  @  A   Á  ÁA A @ €f @€  € 	   € ›      GO    addSubMenu    [HitChance]    HT 	   addParam    ks 
+   [Kill Steal]    SCRIPT_PARAM_INFO        HTks    W Chance:     SCRIPT_PARAM_SLICE        @              @   HTksr    R Chance:        @   co    [Combo]    HTco    ha 	   [Harass]    HTha    separator1    info0 .   0 = fast but lower hitchance, not recommended    info1 /   1 = faster but lower hitchance, good for combo    info2 @   2 = slower but higher hitchance, good for combo or ks or harass    info3 8   3 = its like '2' but angle based logic, best for harass    info4 #   4 = cc/slows only, not recommended    [Advanced Ult Settings]    AUS    ksInfo    BlackList For KS:       đ?   GetEnemyHeroes    UBK    hash 	   charName    SCRIPT_PARAM_ONOFF    buInfo    BlackList For BaseUlt:    UBB    base1    Base Ult only if visible    base2    Base Ult on Recall Spot    DmgMod    BaseUlt Dmg Mod      €V@      I@      Y@
+   [KS Options]    KO    KOye 
+   Enable KS    Dmgplx !   use x % of dmg for calculations:    separator2    KOqq    KS with Q (not in Range)    separator3    KOww    KS W    KOwd    W max Cast Distance      P”@   W    Range    KOdw    Draw me W for easy setup    separator4    KOrr    KS R    iks    R min Cast Distance    R 	   MinRange 	   MaxRange    KOrd    R max Cast Distance      p·@   KOdr    Draw me R for easy setup    KOrdont     Dont ult if x allys near Target    [ Auto E and W Options ]    AEW 	   AEWwdash    Use W Vanga Dashes    AEWwccslows    Use W CC/Slows    AEWeccslows    Use E CC/Slows 	   AEWedash    Use E Vanga Dashes    Vanga Dashes including:    After Dashes, Zhonya, GA    HA    HAqq    Allow Swap (Q)    HAqqm1     Minigun 3 stacks to Rocket Swap    HAqqm2 $   Minigun Out of Range to Rocket Swap    HAww    Use W    HAwd      À’@   HAdw    HAqm    Q: Use mana till :       D@   HAwm    W: Use mana till :       N@   HAwwe '   W: Cast only if regenerated mana costs    HAwh    Use Whitelist    HAwhd    Whitelist Distance       œ@   White 	   HAwhdraw !   Draw me Whitelist for easy setup    HAex %   exception if White List Out Of Range    HAex2 )   exception if do more dmg to other target    separator5    whitelisted     CO    COqq    COqqm1    COqqm2    COww    COwd    COdw    [Key Binds]    KB    hidekb $   automaticly take binds from Orbwalk    addTS    ts    BUon    Enable BaseUlt    fix_nil_harass          !#                a  m    
+      A@  †€@ €€ •  Á@  aÀ€F@ ]€ G†Á@ Á BÁA ÖA‚‡Á€A  €
+@@ `€ü @ € €FÀA G Â J€Â„ €                  đ?   GetEnemyHeroes    whitelisted     	   charName    GO    HA    HAwh                           q      ;    @ @@ €@ À@  
+€ €    À€  @  €€ @  A    €
+€ @  A @A @  @	€ @  A €A À ÁÀ B C  A @€ @  A €A € ÁÀ B C  †C ‡ACÁ  @   @  A €A À Á  B C  †C ‡ACÁA  @   € 	  @ €€D @€  €       GO    MD    mode        @   KB    hidekb 	   addParam    Combo    SCRIPT_PARAM_ONKEYDOWN       @@   Harass1 	   Harass 1    string    byte    X    Harass2 	   Harass 2    C    extendedcontent          #$                •      	#   @  X@@À€@  @€€ À Â  A€@€A AA €€LAÁÁ B ] †B À€ ›   €†@ ÆAB  €Ư Á †@ ‡ ŒBA  €       _G     Draw      ào@   SPRITE_PATH    \    gsub    / 
+   FileExist 
+   createSprite    Release                          ¢  ®    
+B         @€ À €€ E  @   €€@
+€E €O€À @  @€E  [@  €€E €[@  À
+€E  [@   
+€E €[@  @	€FÀÀ   Å  €AA ]@€E €O€À P@  †€Á ‡ÀAÅ  Ï@€€ Æ Â  E€
+AE€… M…€ABM… Å€Á Å€ Í‚€BBÍ‚€E Ư@€@ €C   I    € 
+   
+   GetTickCount              @@   ChInitAndDrawSp 
+   OrbSprite #   BigFatSprites/others/spriteorb.png    math    round 	   DrawLine        @       3  45&()'67;89:<                ±  Ï    U    @ @€ @@ €@ €€ E € MÀÀ  € €€   A À €   	  @ 	 € €A ÀA    À€   	  @ 	 €  €   @€ B @B €B ÀB ƒ € @€     À € B  C @C @  €@  €€ €@  À€  @   €  @  @ €€C @€ ÀC  D @D XÀ@ À€ÀC  D @D €D  € €   @ €ÀD @€      @€ E @€ €A ÀA @  @ €@E @€ €E @€ ÀE @€  €       VarsRefresh    os    clock       đ?           myHero    dead    _G 
+   AutoCarry    MyHero    AttacksEnabled    SxOrb    EnableAttacks    look_for_orbwalk    GO    MD    mode        @
+   KillSteal    LoadMorePlx    GetMode    Q_extra_logic    JinxBeforeAAController     	     /.&(')#"                Đ  ư    u      @   € À A@  …  Á€  VÀ€ @ ÀÀ  A €€ 	 € € 	    € 	  @Á €€ 	 €      À€€Á ÀA X B €€  @  À€ À A@  …  Á@ VÀ€ @  € 	  €Á €B X B €€ €@  À€ À A@  …  ÁÀ VÀ€ @  € 	 €€Á  C X B €€  @  À€ À A@  …  Á@ VÀ€ @  € 	  €Á €C X B €€ €@  À€ À A@  …  ÁÀ VÀ€ @  € 	 €ÀÀ  A €€ E €…  M€€  €  €  @  @€ €@  €€  @  À€ €@   €  @  À€ À A@  …  Á  VÀ€ @  € 	  @Ä @€  €    
+   PrintChat    <font color='#c9d7ff'> =   : </font><font color='#64f879'>looking for orbwalk...</font>    os    clock 
+   GetTickCount    _G 
+   AutoCarry  A   : </font><font color='#64f879'>SAC:Reborn Support Loaded!</font>    BigFatOrb_Loaded F   : </font><font color='#64f879'>Big Fat Orbwalk Support Loaded!</font>    SxOrb @   : </font><font color='#64f879'>SXOrbwalk Support Loaded!</font>    MMA_Loaded :   : </font><font color='#64f879'>MMA Support Loaded!</font> U   : </font><font color='#64f879'>Orbwalk not found ='( Loading Big Fat Orbwalk!</font> 
+   BFW_initiate     
+   %  *34&'()5+,                ÿ  †    2   @ @@ €@ À@   € €    @€ A @A €A @A    À€ÀA @€      € € B A@ @  A @A €A €B @  @€ A @A €A ÀB    À€ C @€      € € B A@ @  €   À€ A €C X C @ €€B À€F C ]@€ E  [   € €F B À ]@ ÀA À€FÀA ]@€ E  [   € €F B   ]@      €€ A @D €D    À€ÀA @€      € € B AÀ @  A @D  E @   € A @D @E    À€ C @€      € € B A€ @  €   À€ A ÀE    À€ÀA @€      € € B A  @  A @F @  À € A €F    À€ C @€      € € B A€ @  @ @@ €@ ÀF @)€ @  G @G    @ € €    @€ A @A €A @A    À€ÀA @€      € € B A@ @  A @A €A €B @  @€ A @A €A ÀB    À€ C @€      € € B A@ @  €   À€ A €C ÀA À€ÀA @€      € € B A  @  A €C  C À€ C @€      € € B A€ @      €€ A @D €D    À€ÀA @€      € € B AÀ @  A @D  E @   € A @D @E    À€ C @€      € € B A€ @  €   À€ A ÀE    À€ÀA @€      € € B A  @  A @F @  À € A €F    À	€ C @€      €€ B A€ @ €€ @  G ÀA    À€ÀA @€      € € B AÀ @  @  G  H @   € @  G @H    À€ C @€      € € B A€ @  € #      GO    MD    mode       đ?   _G 
+   AutoCarry    Keys    Combo    print 
+   combo reborn 
+   LaneClear 
+   MixedMode    Harass    harass reborn    BigFatOrb_Mode 
+   mixed bfw 
+   combo bfw    SxOrb    IsFight 
+   combo sxo 	   IsHarass    IsLaneClear    harass sxo    MMA_IsOrbwalking 
+   combo mma 
+   MMA_IsHybrid    MMA_IsClearing        @   KB    hidekb    harass bfw    combo ommg hotkeys op    Harass1    Harass2    harass ommg hotkeys op          &'()                ˆ  Ø    Á    @ @@ €@ À@ €€ €    À€ A @A €A ÀA @  @€ A @A €A  B    € €@B @€  € €    @€ A @A €B ÀB ƒ € @€     @€ A  C X@C @ €ÀA € €F@B ]@€  €E  [   @ €F A JÀC‡ €   À€ A  D @D @   € A  D €D    € €@B @€ €€ €   À € A  D ÀD @  @ @@ €@  E €€ @ @E €E    @€ @ @E ÀE     € @  F @F    @€ €    À€ A @A €A ÀA @  @€ A @A €A  B    € €@B @€  € €    @€ A @A €B ÀB ƒ € @€     À€ A  C @C € €@B @€  €     @ € A 
+ÀC‡ €   €
+€ A  D @D @   € A  D €D    € €@B @€ @
+€ €   €	€ A  D ÀD @ @€ @  F €F @   € @  F ÀF    € €@B @€  € €    @€ A @A €B ÀB ƒ € @€     @ € A 
+ÀC‡ €   À € A  D ÀD @  €       GO    MD    mode       đ?   _G 
+   AutoCarry    Keys 
+   LaneClear 
+   MixedMode    Q_extraforceminigun    MyHero    AttacksEnabled    BigFatOrb_Mode    Harass    BigFatOrb_DisableAttacks    SxOrb 	   IsHarass    IsLaneClear    EnableAttacks        @   HA    HAqq2    HAqq    KB    hidekb    Harass1    Harass2          &'(                Ú  6    Ă    @ @@ @  @+€€  FÀ@ ]€€ U € €  !@)€Á@ € Á GA@[A  À'€GA@‚ '€GA[  @&€FÁA € ] [   %€GB[  @$€X@BÀ#€E€ €À €E [  @€FB GÁÂGĂGAĂ[A  @€FB GÁÂGĂGĂ[  @€E€ÀĂ€€E€ €ÀÀ€FD € ] †AD € €€€FB GÁÂGÄLÁÄĂ  ]A€F@ LÅÀ ]A€@€FAE †E Æ@ ]A€FB GÁÂGÄLÁÄĂ€ ]A€E€[   €E€ €À@€FAE †E Æ@ ]A€FB GÁÂGÄLÁÄĂ€ ]A€E [   €E€ÀĂ€€E€ €ÀÀ€FD € ] †AD € € €FB GÁÅLÆ]A F@ LÅÀ ]A€À€FAE †E Æ@ ]A€FB GÁÅLAÆ]A E€[  À	€E€ €À 	€FAE †E Æ@ ]A€FB GÁÅLAÆ]A À€E [  @€FB GÁÂGĂGAĂ[A  @€FB GÁÂGĂGĂ[  @€FB GÁÂGÄLÁÄĂ€ ]A€E [  À €FB GÁÅLAÆ]A   ÖÀ€     @€€B ÀB €D ÀD ƒ € @€     À €€B ÀE @F @  €       myHero    dead       đ?   GetEnemyHeroes    health            visible    ValidTarget    valid     _G 
+   AutoCarry    Keys 
+   LaneClear 
+   MixedMode     GetDistance    GetMyRealRangeQBased    MyHero    AttacksEnabled    Attack 
+   CastSpell    _Q    SxOrb    DisableAttacks    EnableAttacks          &.(                A  C      X @ €€‡@@ ›   @€‡€@ ›   €€‡À@ ›@  @€‡ A @A€€‡€A ›   @€X À €€†ÀA À   B €€Z@   €ƒ@  ƒ € Ÿ   € 	       valid    visible    dead    bInvulnerable            bTargetable    GetDist    myHero                          F  K          €‡ @ Æ@@ Ç ÀÀ À€‡€@ ›@   €[   €€‡À@ H A†@A å   Á ÁA@€ €       type    myHero    dead    hash    DelayAction    windUpTime {®Gáz”?   I  I        À @@  €       hash                                >                N  P        @  €     €    
+   GetTickCount                          e  g   
+   † @ ‡@@Æ @ Ç€À   Ư€ @ @@€     Ÿ    €       string    find    lower                          h  ‚   n      €€G @ [   À€G@@  € G€@ †ÀÀ ‡€@X€€ @	€G A @Á € €G€@ X€Á @€G A @Á  €G@@ LÀÁ Á  A ]€ X€Â @€G@@ LÀÁ Á  Á ]€ X Ă €€F@Ă G€Ă …  Ç@@ ]€€[@  À€FÀĂ ‡@@ Á  ]€€[@  @ €G@@ È € G A @Ä @€G€@ †€Ä €€ @ €G@@ € G A ÀÄ @€G€@ †€Ä €€ @ €G@@ H€ G A  Å @€G€@ †€Ä €€ @ €G@@ ˆ€    @€G @ [   €€G A @Á À€G@@ ŒÀÁ  AA € X€B@€ŒÀÁ  AÁ €  C€€†@Å ̀ÀÁ A Á Ư  €  †€€›   @ €Ç@@  € €       valid    name    team    myHero    type    obj_AI_Minion      Àr@   sub       đ?       @	   Minion_T       @   Odin    table 	   contains 	   inString    ward    obj_AI_Turret    TEAM_ENEMY    obj_BarracksDampener    obj_HQ 	   tonumber       "@      &@       D  E@ABC?                „  ˜       G @ F@  [   @ €‡@@ J€@… € ›   @ €‡@@ H€@…  ›   @ €‡@@ ˆ€@… €›   @ €‡@@ È€@†À@›   @ €‡@@ H@…  ›   @ €‡@@ ˆ@ €       team    name     nexus        ?@AB  CD                      
+      F@@ G€À À  !@€A FA@ LAÁÀ€]€A    ₫ €               objManager    maxObjects       đ?   ObjectsOnCreate_ 
+   getObject                          ª  ±   
+   † @ À    À €@ @ €Ă€ ß ¢€  #A₫ƒ   Ÿ   €       pairs                          ²  ¾   2      €€[    €›   €
+€Æ @ Ç@À€ G@Ư€€Û@  @€ÇÀ@Û    €Æ @ Ç@À GÁ@Ư€€Û   @€Ç Á ÆÀ€@Á€ €Ç Á   È Ç€AÁAÎ Ï Â@ ABGÁ FA‹Á  Ç@Á…ÆC Ư€ Á…ÆC Ư€ ÍÁ€Á†A€ €       table 	   contains    name    type    hash     endTime 
+   startTime      @@   insert    Name    Start    Tick    End          FGH                Â         ÇA@ Û   4€ÆÀ Ư€ É  ÆÁÀ    Ư A \B @ €FBÁ G‚ÁœB€  €  [A    €FÁÁ A    €  ÆÂ CB GCÂCA  ‡ƒB ÇƒÂĂƯ‚ Â GĂB GĂGCÂ‡CB Nƒƒ  ÇĂB ÇĂÇƒÂ„B Î„ƒ FÂ ‡CB Á  „B ]ƒ †CĂ À€  ƒ€“ ÏDÁ „C@€Ä „€Ï„DÁ „C@ Ä „€„„Î„DÁ DFDÁ G„Ă†DÁ ‡„C	À Å „€„„„	ÏEÁ …C
+@€Å …€Ï…	Ä	ÁÄ ]„€†DÁ ‡„C	À€Å „€ÆDÁ Ç„Ă	  AÅ Ư„€Ä	ÆDÁ Ç„Ă	  AÅ Ư„€EÁ …C
+@€Å …€Ï…	EÁ …C
+@ Å …€Ï…	EÁ …C
+@€Å …€FEÁ G…Ă
+€ ÁÅ ]…€E
+Í…	Ä	M„„„ Í„DÁ „C@€Ä „€FDÁ G„Ă€ ÁÄ ]„€DĐ„DÁ „D@€ŒÄD „  H „ˆE„ FDÄ DEN„„D
+„FÄÀ € ]„ @€@
+€ LÄD]„ @„  €Á FDÁ GÄÅ€ ]„ †DÁ ‡D	Á „ ÄC	@	  € @F  € GÄF FDX Ç €†DÇ À€€€Ç…G†À †€ Î†À€@ € € €ÆF 
+Ç
+¢„  #…ü@ € _€ 
+€ÆÁÀ    Ư @€ 
+€ Å  X À€€ÆÀ Ư€   Î‚À  €Á ÇÁF ÆÁÛ    € ÇA @Æ  € ÇÁF ÆÁX Ç €BÇ @€€€GƒG†ƒÀ ƒ€ Nƒƒ@€@ € € €‡ĂF †ƒÇ"‚  £‚üÆÂ BB A  ‡‚B Ư   ß€ €                hasMovePath    Tick    GetDist    ms    math    huge    myHero    Vector    x    z    path    endPath    Cosin    pow        @   sqrt    _XF    min    len    normalized       è?      đ?   abs       @     @o@      @   hash     pairs    End      @Ÿ@       I  H>                
+     	'   ‡ @ Ç À À Ç@@ AÀ Ï À Æ€@ ÇÀÀ@ AG@ A €F@ GÁ‡A@ ÁA ]€
+AƯ€ @ Á@F@ GÁ‡À ÁA ]€†@ ‡AÇAÀ B €M Ï Á   €       x    z    math    sqrt    pow        @                           '   N   €€Æ@ BÀ A‚  ‡ÂÀ Ư @ GB@ ‚  ÇÂ@ ‚ F@ ‡B@Á‚  Ă@]‚ ‚Î‚A @€€ ƒ€FCA €  À ]ƒ€†ƒA ‡ĂAÀ ƒ Oƒƒƒ€Ă Á DB @€€ „€F@ ‡D@Á„  Å@]„ ‚ÆA  €@ 	Ư„€…A …B
+F…A GÅÂ
+€€	Á ]…€NE…†… L…C	]… OE
+NÅƒ
+Œ…C	… ……	Å 
+À€À@€̀…ĂƯ… À@ €Ă€ ß Ă  ß  €       Vector    x            z    Cosin    GetDist    math    abs      €Q@
+   MovementPred    sqrt    pow        @      đ?   len                          )  9   >   †@ ÆA@ ÆÁ €€Æ‚@   Ư‚ Û  @€ÆÂ@   Ư‚ A ƒÀ€ÆBA    @€ €€À  €@ Ư‚€Û  @ €Ă€ ß ¢  #‚ù†@ Å €€Æ‚@   Ư‚ Û  @€ÆÂ@   Ư‚ A ƒÀ€ÆBA    @€ €€À  €@ Ư‚€Û  @ €Ă€ ß ¢  #‚ùƒ  Ÿ  €       pairs    TEAM_ENEMY    isValid    GetDist        @   CheckObjectForCollision          ?@                ;  J   P   @ FA@ FA  €F‚@ € ]‚ [  À€FÂ@ € ]‚ A €‚@€FBA †‚A ÆÂA  € @ €€À ]‚€[  À€FB ‡BBÇ‚BĂ FC C ÁC „ A„ ]ƒ€Ă ]B "  £÷@ E  €F‚@ € ]‚ [  À€FÂ@ € ]‚ A €‚@€FBA †‚A ÆÂA  € @ €€À ]‚€[  À€FB ‡BBÇ‚BĂ FC C ÁC „ A„ ]ƒ€Ă ]B "  £÷ €       pairs    TEAM_ENEMY    isValid    GetDist        @   CheckObjectForCollision    myHero 	   mousePos    DrawFPSCircle    x    z       I@   ARGB      ào@              @         ?@                L  V   %     ÆA@ ÇÀ  ¡Á€†B@ ŒÂ@ €‚€ÇACA AX ƒ€€Æ‚A   Ư‚ Û  @€X@À€ÆÂA    @€ € À€  @ Ư‚€Û  @ €Ă€ ß  øƒ  Ÿ  €          đ?   heroManager    iCount    GetHero    team    myHero    isValid    CheckObjectForCollision                          X  h   
+&   ‡ @ ›   À€‡@@ Æ€@ Á@ A ‡AA Ư€ @ GA GÁÁGÁÀ ÇA ÇÁÁÇAÁ NÁ ŒÂ Ï€ À  €À BÂ‚ Â
+‚ @€†€@ ÇÀ@  GAA   Ÿ    € 
+      hasMovePath    ms    Vector    x            z    path    endPath    len    normalized                          j  m      [@    €F @ †@@ ‡€@ÇÀ@ ÁÀ Î ̉ ÁAA GAÁ AAÍ   Ÿ    €       myHero    math    sqrt    x        @   z                            ¥      F À G@À ‡€@ ]€ F@  XÀÀ @€F À G@À ‡€@ ]€ F@  G Á ‡@A Æ€Á AA Ư€ ÁÁK JÁ „†Â € A J„‡C J…‡C J†ˆ@ €       string    lower    name     ex    pos    GetEnemyFromPos    hash    Unit    EndTime 
+   GetTickCount    EndPosX    x    EndPosZ    z        K  J                ¦  ¨      G @ F@  X@À €€F€À ]€€ ‡ @ †€  ‡À@Y€€   €C@  C € _   €       hash  
+   GetTickCount    EndTime        J                  ©  ¼   9   A   †@@ ‡€@Á   a@€FA@ LÁÀÀ ]€ŒÁBA €‡A̀ÁFÂA Ư€ÇÁÁ†B ‚€‚ALÁÆBB ]‚€G‚Á€ € €‚ Ÿ  €À € €Â Ÿ À€  € € Ÿ €€@ € €B Ÿ @€X€ À€XÀ @€X  À €X@ @ €„  Ÿ ` ó €          đ?   heroManager    iCount    GetHero 
+   GetSpellData    _Q    name    _W    _E    _R    Q    W    E    R                          ½  É      D      Á@  @ Á@AA  áÀ€Æ@ ̀Á@ Ư€BÁF‚A @À€ÂA @€€  ‚€€ @€@ €ÂA @€€  ‚€€  à€ú_   €          Y@      đ?   heroManager    iCount    GetHero    team    TEAM_ENEMY    GetDist                          Ê  ̀   	   F @ †@@ Ç€@ Á  GA   ^   _    €       IsWall    D3DXVECTOR3    x            z                          Í  à   -   ›@    €   Û@    €Á@  € L@] „  ÁÁ    A áÁ€@A€€ÁÂ   €A á€Đƒ ÏC„A @ †ÄA ‡B	DB	ĐÄ Ä	„€L„B]„ OÄƒMD„ †ÄB À€„ ›D  @ €€€  €àBúàøŸ  €          Y@      8@   len               đ?    vRotate    math    pi        @   normalized    isWall                          á  å   !   ‡ @ Æ@@ Ç€À € Ư€ À ÇÀ@ A@ A@€  Ï À Ç @ A@ A@€  Ï Á@ FA@ GÀ€€ ] AÍ AA @  À€    €       x    math    cos    z    sin    Vector                                  æ       ‡ À X@@€ €‡€@ @@  € € †ÀÀ ‡ AÇ@Á € †€  X@@ÀB€‡€A ÆÀÁ Ç€ÁÀ @€†ÀÀ ‡ AÇ@Á €  B @€†@Â Ç@Á € Á€ Á X@@À€A € VŒAC ‚Ă B€ÇÀCK  ‡À ‡DJˆ‡À ‡ADJˆ‡Ä X@@  €GÄ †ÁÄ ÆÁÀ ÇÁBÁ Ư ÆÁ  X E (€†ÁÀ ‡AÇAÁ  † ‡AEX@@@€†ÁÀ ‡AÇAÁ  † AE†ÁÀ ‡AÇAÁ  † ‡EX@@@€†ÁÀ ‡AÇAÁ  † Ç€E†ÁÀ ‡AÇAÁ  † ‡ÁEX@@€€‡F X@@À€†ÁÀ ‡AÇAÁ  † ‡ÁE€…@€†AÆ ÇÀ ÇÄF DÎ‚Â GÀ GBÄ‡F ‡BDN‚‚ ŒF ÆÁÀ ÇÁBÁ Ư ÆÁ ÇÁÅY€À€†ÁÀ ‡AÇAÁ  † ‡ÁF›   €†AÆ ÇF ÇÄÂ GF GBÄ ÆAÆ À DGF GÄBAÂ ‡À ‡BDÇF ÇBÄÂƯ ̀ÇƯ ÂÀ AGBÁ ‚  ÂEÏ‚MÁ@€†AÆ ÇF ÇÄÂ GF GBÄ ÆAÆ À DGF GÄBAÂ ‡À ‡BDÇF ÇBÄÂƯ ̀ÇƯ ÂÀ AGBÁ ‚  ÂEÏ‚MÁ†AÇ À€ ›   €†AÆ ÇD Â GBD  ÆAÆ ÄAÂ ‡BÄƯ ‚Ç @ €€‚€X@@  €@ ÀÂ@ €†ÁÇ Ç H‹  X@À€ €ÇÄÛA  @ €ÇÀ ÇÄÁˆX@À€ €ÇAÄÛA  @ €ÇÀ ÇAÄÁˆÇAÈ ‚È @ €  ‚€Â Í‚‚@ K J€‘†BÉ ‚€ ÇBÈ ƒÈ @ €  ƒ€Ă ÍƒÏ‚ÉÂJ‚’X@À€ €‡Ä›B  @ €‡À ‡DJ‚‚“X@À€ €‡BÄ›B  @ €‡À ‡BDJ‚”ˆ@†@Ê @€  € *      endPos     hash    string    lower    name    team    myHero    zhonyashourglass    GetWordByName      p—@           _ 
+   GetSpellData    _G    missileMaxSpeed    x    z    target    type    boolean    ex    sp    r    pos    Vector    len    fx    normalized    isWall    GetWallAvoidPls    math    huge    windUpTime    GetDist    Unit    EndTime 
+   GetTickCount      @@   EndPosX    EndPosZ    ClearDashes        K  J                      
+    @ E €  @€FA@ ]€ ‡@@  €HÀÀ"€  £Àư €       pairs 
+   GetTickCount    EndTime           J                !  +    
+$    @ E €   €FA@ ‡@] [  À€K  ‡@‡A† ‡AAJ‡@‡A† ‡ÁAJƒX Â€€‡@‡A† ‡ABÆB Ư€ ÁÆÁB   @€ƯA€"€  £ ø €       pairs 
+   isDashing    Unit    x    hash    EndPosX    z    EndPosZ     EndTime 
+   GetTickCount    VangaOnDash          J                -  /      @ A@F@ €  ] €€ € 
+Á Á@  €       math    min    GetDist      @@                         1  B   ^   ‹€  Ë  Ê€À€Ê ÁÊ€Á‚B ABÊ ƒÀ €Ë  ÊÀÂ€Ê ĂÊ@Ă‚Ê€ĂƒÀ …ÆÀC   Ư À€D @€ ‡ÂÀÇÂÁCÁ‚€  À€FBD €€ ]‚ ‡ÂÀ€‚@€GBÀ€À@€F‚D GÂÄGÅX@Å@€F‚D GÂÄGÅ€ÅÀ€F‚D GÂÅGÆ[  €€FBF †‚F À€ ĂÆ Ă@FĂÆ GĂÁ†ĂÆ ‡CAÆĂÆ ÇÇÍCÇ]‚€[  @€GBÀÀÂ@€F‚D GÂÄGÅX@Å@€F‚D GÂÄGÅ€ÅÀ€F‚D GÂÅG‚Ç[  €€FÂG †H ÇBÀ‡ÂÇBÈ ƒÈ ]B â€  cAí € #      Q    Word    _W    Range      ¨–@   Delay 333333ă?   Speed    math    huge    E    _E       Œ@      Đ?     0¡@   pairs    GetSkillshotTravelTime    GetDist    GO    MD    mode       đ?       @   AEW 	   AEWwdash    BigFatMinionCollision    myHero    W    Width       I@	   AEWedash 
+   CastSpell    _G    x    z          !                I  S   
+'   †@@ Æ€@ Á@ AAA  A Á ÆÁ@ ÇÁ Ư Â@ AAB ‚ Ư  €  
+€ €
+@ …† C ÁÀ € 
+€€…
+€Ă†† D ÇÀB ÇÀĂƯ € €  
+€€‡Œ@D  @€†ÀD å   @  €       hwid 
+   Base64Encode 	   tostring    os    getenv    PROCESSOR_IDENTIFIER    NOUSERNAME FOR YOU :P    NOCOMPUTERNAME FOR YOU :P    PROCESSOR_LEVEL    PROCESSOR_REVISION    Key    socket    require 
+   gameState     tcp    assert    SendUpdate       đ?   AddBugsplatCallback    P  R           @ @  @€ €       SendUpdate        @                                             T  X   
+   ‡ @ Œ@@  AÁ  @ ‡ @ Œ AA GA Á ÇB Â @€ Â ÆBB Ç‚ÂĂ @€‡ @ Œ C@  € 
+      tcp    connect    scriptstatus.net       T@   send    GET /sync-    Key    -    hwid    myHero 	   charName &    HTTP/1.0
+Host: scriptstatus.net
+
+    close                          [  ]        @ @€  €    	   LoadMenu                          ^  ¢    }  @@ E € … € €€  € @ €@ À  Á  @  @  A @A € ÁÀ B C€ @  @  A @A @ Á€ B C  @  @  A @A À Á  B C  @  @  A @A @ Á€ B C  @  @ €@ À Á  @ @ F€D ]€€ U € @ ! €D € Á F@ GÄLAÁÁ ÂDÖ‚EFB ƒ  ]A  @ü @ €@ @ Á€ @  @ €E @A À Á  B C€ @  @ €E @A @ Á€ ÁF A @  @ €E @A   Á@ B C€ @  @ €E @A € ÁÀ B C€ @  @ €E @A   Á@ B C€ @  @ €E @A € ÁÀ I FAIGÉ†AI‡IÆAIÇÁÉ
+ @€ @ €E @A @
+ Á€
+ I FAIGÁÉ†AI‡ÁIÁÁ
+ 
+ @€ @ €@   Á@ @  @ @K @A € ÁÀ €A Ö@ÁF A @  @ @K @A @ Á€ ÁF A @  @ €@ À Á 
+ @  @  M @A @
+ Á€
+ B C€ @  @  M @A À
+ Á  B C€ @  @  M @A @ Á€ B C  @  @ €@ À Á  @  @  O @A @ Á€
+ B C€ @  @  O @A € Á€ B C€ @  @  O @A À Á  B C  @  @  O @A @ Á€ B C€ @  @ €@ À Á  @  @  Q @A @ Á@ Q C  †ÁQ ‡RÁA  @   @  Q @A € ÁÀ Q C  †ÁQ ‡RÁ  @   @  Q @A @ Á€ Q C  †ÁQ ‡RÁÁ  @   @  Q @A   Á@ Q C  †ÁQ ‡RÁ  @   @ @A À Á€ ÁF A @  @ @A   Á@  A Ö@ÁF A @  @ @A À Á€ ÁF A @  @ @A À Á  B C  @  @ @A @ Á€ ÁF A @  @ @A À Á€ ÁF A @  @ @A   Á€ € AA …€Á ÖÀÁF A @  @ @A € ÁÀ €A Ö@ÁF A @  X A@ … € Á€ €AÁ †Y € ÁA VÀ @ €Y FÀY   V€€ € @  @€ X A@ … € Á@ VÀ€ @  @ ÀU    € €€Z e   @  € k      GO 
+   scriptConfig    addSubMenu    [Draws]    DR 	   addParam    DRsp    Draw Damage    SCRIPT_PARAM_ONOFF    DRaa    Draw AA Range    DRww 
+   Draw W Range    DRee 
+   Draw E Range    [Ultimate BlackList]    UB       đ?   GetEnemyHeroes    hash 	   charName 
+   [KS Options]    KO    KOen 
+   Enable KS    separator1        SCRIPT_PARAM_INFO    KOqq    KS with Q (not in Range)    KOww 
+   KS with W    KOrr    KS with R (Min < range < Max)    KOrMin    Min R Range:     SCRIPT_PARAM_SLICE    R 	   MinRange 	   MaxRange            KOrMax    Max R Range:       p·@   [Changelog] 
+   Changelog    changelog1    Whats new in v.      ?    changelog2 	   Rework^^ 	   [Harass]    HA    HAqq    Use Q    Haqq2    Force to Minigun    HAww    Use W    [Combo]    CO    COqq    COww    COee    Use E    COrr    Use R    [Key Binds]    KB    Combo    SCRIPT_PARAM_ONKEYDOWN    string    byte    X    Harass1 	   Harass 1    Z    Harass2 	   Harass 2    V    FarmKey    FarmKey(Just For SwapQ back)    C    about00    info1 *   Current Prediction: Big Fat Vanga ver.: (    )    loadbfo .   Turn on to load BigFatOrbwalker on next start    infobfo %   Reload in Game: F9 wait 5 seconds F9    about1    about3     v.     about4    obviously by  
+   PrintChat    <font color='#c9d7ff'> $   : </font><font color='#64f879'> v.  R    </font><font color='#c9d7ff'> loaded, welcome back</font> <font color='#64f879'>    GetUser 	   !</font> 
+   FileExist    SPRITE_PATH +   BigFatSprites/others/bigfatsprites.version ƒ   : </font><font color='#64f879'> Big Fat Mark 4 not found ='(. Its recommended to use with Big Fat Mark 4, also its free ;) </font>    AddLoadCallback                @ @€  €       EbalYaVashiSocketi                               ! =                ¥  ©    
+    @ @@ €@ À€À@  A F @ G@Á ‹@  ÆÀA À ƒ@€ €       _G    BigFatOrb_Loaded    table    insert    BigFatOrb_BeforeAACallbacks    func    Jinx_BeforeAA                          «  ¶    2    À @@ †€À €€FÀÀ X@    €@   € 	    À @@ † Á €€FÀÀ X@    €@   € 	   À @@ †@Á €€FÀÀ X@    €@   € 	 € À @@ †€Á €€FÀÀ X@    €@   € 	   À ÀA  B € €@ 	 €@ €€ 	 € €       myHero    CanUseSpell    _Q    READY    _W    _E    _R    range      l€@              đ?       
+                  ¸  É   "   F @ €   ]€ O@À … € ›@  €€†€@ ŒÀ@A €€‡@A€AÀ €†ÀA À   € M€€ …  ›   À €† B À   € M€€ … €›   À €†@B À   € M€€ _   € 
+      GetAADamage        @   myHero 
+   GetSpellData    _Q 
+   currentCd       y@   GetQDamage    GetWDamage    GetRDamage          
+                Ë      Ï    @ @@ €@ À@ À€ €    À€ A F@A ] € €  €A  €F A †ÀA  € ]€    € X€A €€E   Â  €F@B €   ]€ †@A €€ €€ @€E €€Â € €FÀB ]@€ €€E €€Â À€F@B €   ]€ †ÀA €€ €€  €F@B €   ]€ †@A €€ @ @ €FÀB ]@€ E €ÀÀ  €F@B €   ]€ †@A €€ €€ @ €FÀB ]@€      @€ A F ĂG@Ă € X€A À €F€C €   Á€ ]@€      € A FÀĂG@Ă € X€A € €F D €   ]@  @ @@ €@ @D À€ @ €D ÀD    À€ €     € A F@A ] € €  €A  €F A †ÀA  € ]€    € X€A À€E   Â @€F@B €   ]€ †@A €€ €€ €€E €€Â À€F @ G€Ä G Å [   € €FÀB ]@€ €€E €€Â À€F@B €   ]€ †ÀA €€ €€  €F@B €   ]€ †@A €€ @ @ €FÀB ]@€ E €ÀÀ  €F@B €   ]€ †@A €€ €€ @ €FÀB ]@€  @ €D @E     €     @€ A F ĂG@Ă € X€A À €F€C €   Á€ ]@€ @ €D €E    À€      € A FÀĂG@Ă € X€A € €F D €   ]@  €       GO    MD    mode       đ?   GetTargetAD    GetMyRealRangeSimple     GetMyRealRangeQBased       @   GetDist         	   PerformQ    W    Range 	   PerformW    E 	   PerformE        @   CO    COqq    COqqm1    COww    COee          
+1!                
+  7    Å    @ F@À G€À € FÀ@ G Á G@Á X€Á  €FÀ@ GÀÁ G Â [@   €F@B †@À ‡€@]€   € X€B €+€FÀ@ G Á G@Á €Á €€E  [   @
+€FÀB G Ă †ÀB ‡@C€C@ €€E €ÀĂ  €F D €   ]€ †@D €€ €€ @€E  €Ä € €FÀD ]@€ €€E  €Ä À€F D €   ]€ † E €€ €€  €F D €   ]€ †@D €€ @ @ €FÀD ]@€ E  €Á  €F D €   ]€ †@D €€ €€ @ €FÀD ]@€ E €[   €€FÀB G Ă †ÀB ‡@C@E@ À €F€E €   Á€ ]@€FÀ@ G Á G@Á ÀÅ @€FÀ@ G Æ G@Æ [   @€E  [   €€FÀB G Ă †ÀB ‡@CÆÀ@ ÇÀÁÇ€ÆĐÀÆÀ @ À€E €ÀĂ @€F D €   ]€ †@D €€ €€ €€E  €Ä À€FÀ@ G Æ G Ç [   € €FÀD ]@€ €€E  €Ä À€F D €   ]€ † E €€ €€  €F D €   ]€ †@D €€ @ @ €FÀD ]@€ E  €Á  €F D €   ]€ †@D €€ €€ @ €FÀD ]@€ FÀ@ GÀÁ G@Ç [   @€E €[   €€FÀB G Ă †ÀB ‡@CÆÀ@ ÇÀÁÇ€ÇĐÀÆÀ @ À €F€E €   Á€ ]@€ €       GetTargetADWhitelisted    W    Range    GO    MD    mode       đ?   HA    HAwh    GetTargetAD     myHero    mana    maxMana ™™™™™Ù?      @   GetDist    GetMyRealRangeSimple         	   PerformQ    GetMyRealRangeQBased 333333ă?	   PerformW        @   CO    COqq    HAqm       Y@   COqqm1    HAww    HAwm          !
+1                9  =    
+    À @@    @  À €€À FÀÀ † À @€ €       myHero    hash 
+   CastSpell    _Q        >                  ?  ¥   	*   À @€†@@ À   À Á@FÀ GÁ†À ‡AAÆÀ ÇÁÀ ÁA FÀ GÁÀ†À ‡AÆÀ ÇAÁ €FAB GÂGÁÂ Ă€€›   €€À€† €FC € ] †À ‡Á@€@	€LÁCÆD   ] [A  À€FAD †D ÇÁDE]A @€›   À€FAB GAÅGÅÀ€€€FC € ] †AB ‡ÁE‡F€€€LÁCÆD   ] [A   €FAD †D ÇÁDE]A  Ă À€†@@ À   À Á@FÀ GÁ†À ‡AAÆÀ ÇÁÀ ÁA FÀ GÁÀ†À ‡AÆÀ ÇAÁ €FAB GÂGÁÂ Ă €›    €À€†€
+€FC € ] @Æ@	€LÁCÆD   ] [A  À€FAD †D ÇÁDE]A @€›   À€FAB GAÅGÆÀ€€€FC € ] †AB ‡ÁF‡G€€€LÁCÆD   ] [A   €FAD †D ÇÁDE]A @Ç À€†@@ À   À Á@FÀ GÁ†À ‡AAÆÀ ÇÁÀ ÁA FÀ GÁÀ†À ‡AÆÀ ÇAÁ €FAB GÂGÁÂ Ă €›    €À€†€
+€FC € ] @Æ@	€LÁCÆD   ] [A  À€FAD †D ÇÁDE]A @€›   À€FAB GAÅGÇÀ€€€FC € ] †AB ‡ÁG‡H€€€LÁCÆD   ] [A   €FAD †D ÇÁDE]A @Ă €€†@@ À   À Á@FÀ GÁ†À ‡AAÆÀ ÇÁÀ ÁA FÀ GÁÀ†À ‡AÆÀ ÇAÁ €FAB GÂGÁÂ Ă €›   À
+€À€@
+€FC € ] @Æ 	€LÁCÆD   ] [A  €€FAD †D ÇÁDE]A  €FAB GÈGÁÈ[  À€›   @€À€À€FC € ] @Æ€€LÁCÆD   ] [A   €FAD †D ÇÁDE]A  € $              BigFatVanga    W    Range    Speed    Delay    Width 
+   Collision       T@   GO    MD    mode       đ?      @   GetDist    GetMinionCollision    myHero 
+   CastSpell    _W    x    z    HT    HTco    CO    COwd      •@   HTha    HA    HAwd        @   HTks    KO    KOwd       @   AEW    AEWwccslows          !                §  ´   B   [@    €A   †@@ À   À  À  €@ Á@A@AÀ€@ AÁAÀ €€@ Á@AX B €@ Á@A@A €AB @  F@ GÂGÁÂ@ €C FAC ‡CÇÁCA  Ä @€À€ˆÀ€@ Á@AX B@€@ Á@A@A@€@ DÁD   €C FAC ‡CÇÁCA  €            	   PredictE    GO    MD    mode        @   HT    HTcoe       đ?   GetDist    CO    COed 
+   CastSpell    _E    x    z       @      @   AEW    AEWeccslows                          ¶  »   
+W   F @ €   ]À Æ@@ Ç€ÀÇÀÀ Á@ €Z€€‚@€Æ@@ Ç€ÀÇÀÀ€Á€€Æ@@ ÇÀÁÇ Â€€@€Æ@B  € Ư€ A@ @Á@ A€ € A  €€A@ @Á@€AÀ €A@ ÁBC@ €A  € À @
+€Æ@B  € Ư€ A@ @Á@ A€ €A A  €€A@ @Á@€AÀ €A@ ÁBC@ €A  €  @€ÆÀC D @€ †AÄ ‡DÆAÄ ÇÁÄBÄ E@  Ư€€Û@   €Æ@E E GÁÅ ‡Æ Ư@  €    	   PredictR    GO    MD    mode       đ?      @       @   HT    HTksr    GetDist      p—@   KO    iks      ”±@   KOrd    BigFatHeroCollision    myHero    R    Speed    Delay    CWidth 
+   CastSpell    _R    x    z          !                ½  Â   
+   F @ G@À € € Æ @ ̀€À@  € Ư€ ß   €       myHero    damage    CalcDamage                          Ä  Ë      F @ G@À €  Æ @ ÇÀÀÏ€€ÍÀ€ @ A€  À€   €       myHero    damage ™™™™™¹?   totalDamage    CalcDamage                          Í  Ö   	   F @ L@À Æ€@ ]€€GÀÀ  Á @ €@ Ÿ  ‹ €Á€ Á A A Á ¤@€ÁÀ A F@ GĂOÁ€
+AF@ LAĂÀ    ] _  €       myHero 
+   GetSpellData    _W    level       đ?              $@      N@     €[@      d@     @j@ffffffö?   totalDamage    CalcDamage                          Ø  á   	   F @ L@À Æ€@ ]€€GÀÀ  Á @ €@ Ÿ  ‹ €Á€ Á A A Á ¤@€Á  A F@ GÁÂOÁ€
+AF@ LĂÀ    ] _  € 
+      myHero 
+   GetSpellData    _E    level       đ?              T@     à`@     Àg@      n@     Àr@   ap    CalcMagicDamage                          ă  í   
+&   F @ L@À Æ€@ ]€€GÀÀ  Á @ €@ Ÿ  ‹ €Á€ Á A ¤@€Á  €AA  ÁÁ $A€GA †@ ‡CÁ M‡AC ÇC ÁÇA ÁM†@ ŒÁC   @€ Ÿ  €       myHero 
+   GetSpellData    _R    level       đ?             @o@     àu@      |@      Đ?333333Ó?ffffffÖ?   damage 
+   maxHealth    health    CalcDamage                          ï  ø         Á@  @ Á@AA  á €Æ@ ̀Á@ Ư€BA @€‚   À€‚ÁFÂA G‚Á@€€B @  €€‚€@   €@@à@úŸ   € 	                 đ?   heroManager    iCount    GetHero    isValid    team    myHero    GetDist                          ú      ̃      F@@ ]€€ U €    !@5€A@ € Á F@ € ] [  @3€FÁ@ € Á ]A€FAA € Á ]A€FA GÁÁGÂX À@€FA GÁÁGÂ@ÂÀ.€FA GÂGÁÂ[  €-€FA GÁÁGÂX À@€FA GÁÁGÂ@Â@€FA GÂGĂ[   €E€ [  @€GAC†C À  €À€E ÀĂ €FD € ] †AD € €@ €FD ]A€ FA GÁÁGÂX À@€FA GÁÁGÂ@Â@€FA GÂGÁÄ[   
+€E€[  @	€FD € ] †E‡AE€€€GAC†E À  € €FA GÁÁGÂX ÀÀ€FA GÁÁGÂ@Â€€GAC†E À  ÆA ÇÂÇÁÅÁF€À €FÁ@ € Á ]A€FA GÁÁGÂX À@€FA GÁÁGÂ@Â €FA GÂGAÆ[  À€E€[   €FF € ] ‡AC@ €FA GÁÁGÂX ÀÀ€FA GÁÁGÂ@Â €FF € ] †A ‡B‡ÁEOPÆ‡AC@@€FA GÁÁGÂ À@€FÁF € Á ]€Y@Â@€FA GÁÁGÂ@Â@€FÁF € Á ]€†A ‡B‡AG€ €FA GÁÁGÂX À €FA GÁÁGÂ@Â€€FA GÇÁ ÇH–ÁG[A  € €FAH € ]A   Ê € "         đ?   GetEnemyHeroes    isValid 	   PerformW       @	   PerformE    GO    MD    mode        @   KO    KOye    KOqq    health    GetQDamage            GetDist    GetMyRealRangeQBased 	   PerformQ    KOww    W    Range    GetWDamage    Dmgplx       Y@   KOrr    GetRDamage    GetAllyNear      @@   KOrdont    AUS    UBK    hash 	   PerformR          
+!                  $   9   A   †@@ ‡€@Á   a@€FA@ LÁÀÀ ]€ŒÁBA €‡A̀ÁFÂA Ư€ÇÁÁ†B ‚€‚ALÁÆBB ]‚€G‚Á€ € €‚ Ÿ  €À € €Â Ÿ À€  € € Ÿ €€@ € €B Ÿ @€X€ À€XÀ @€X  À €X@ @ €„  Ÿ ` ó €          đ?   heroManager    iCount    GetHero 
+   GetSpellData    _Q    name    _W    _E    _R    Q    W    E    R                          &  H   ‚   D      Á@  @ Á@AA  á €Æ@ ̀Á@ Ư€BÁF‚A GBÁX@À€ÂÁB   €Â €@
+€BÂ  €	€‚Â @À€ÂÂ   €X Ă€€BC ‚CÂC D@€BD F‚A €€‚€FBC G‚ÄGÂÄ@ €BC ‚DGÅB  €€BÅ
+‹‚EGÂBZ€ @ € @@ €@ €€  à@ñ Ă  €ÆÀE    Ư€ @ €À
+€Á   A  F@ GÁÀA  !€‚@ A€€‚€GBA†‚A ‡BAX€‚À	€GÂA[B   	€GB@€@€GBB[  €€G‚B ÀÀ€GÂB[   €X C€€FBD †‚A À ]‚€ € €FBC G‚Ä‡EG‚‚[  €€GBEMB‹P‚Å‡BÏ‚‚ZÀ€@ € À@ €@  À € Aó_   €                  đ?   heroManager    iCount    GetHero    team    myHero    dead    health    visible    bInvulnerable    bTargetable     GO    MD    mode        @   GetDist    HA    HAwhd    hash    armor       Y@   GetTargetAD                          J  Z   5   D      Á@  @ Á@AA  á€
+€Æ@ ̀Á@ Ư€BÁF‚A GBÁX@@€ÂÁB  €€Â €À€BÂ   €‚Â @@€ÂÂ  €€X Ă €BC F‚A €€‚€  €€‚Ă
+‚‡ÂCGÂBZ€ @ € @@ €@ €€  àÀô_   €                  đ?   heroManager    iCount    GetHero    team    myHero    dead    health    visible    bInvulnerable    bTargetable     GetDist    armor       Y@                         \  l   5   D      Á@  @ Á@AA  á€
+€Æ@ ̀Á@ Ư€BÁF‚A GBÁX@@€ÂÁB  €€Â €À€BÂ   €‚Â @@€ÂÂ  €€X Ă €BC F‚A €€‚€  €€‚Ă
+‚‡ÂCGÂBZ€ @ € @@ €@ €€  àÀô_   €                  đ?   heroManager    iCount    GetHero    team    myHero    dead    health    visible    bInvulnerable    bTargetable     GetDist    magicArmor       Y@                         n  p   
+   F @ €   Æ@À Ç€ÀAÀ Á@FAÀ GÁ†AÀ ‡AA^  _    €       BigFatVanga    W    Range    Speed    Delay    Width          !                r  t   
+   F @ €   Æ@À Ç€ÀAÀ Á@FAÀ GÁ†AÀ ‡AA^  _    €       BigFatVanga    E    Range    Speed    Delay    Width          !                v  x   
+   F @ €   Æ@@ Ç€ÀÁÀ AFÁÀ GAÁ†ÁÀ ‡A^  _    €       BigFatVanga    math    huge    R    Speed    Delay    Width          !                z  €   
+   † @ À    € €@   €
+@À¢€  #₫ €       pairs                           ‚      !    @ @@ €€ E € M€À  €  € € XÀ@ @€ @ @@ €€ E € M€À  € €€   A 	   @ @@ €€ 	 € @A €A    À €À  	 € À  	   €       os    clock       @              đ?   myHero    dead          21                  ˜      G @ L@À Á€  ]€€[    €E   @€€€F AG@Á ]€€ I € AÀ  I   €€F AG@Á ]€€ I € E   M€Á I    €       name    find    Q_Minigun_Cas       @   os    clock       đ?       12                    Ÿ   
+   † @ ‡@@Æ @ Ç€À   Ư€ @ @@€     Ÿ    €       string    find    lower                          ¢  ¥      F @ G@À €   ]€ † @ ‡€@À € Á  €€›   €€† A ‡@AÆ€A  € €€›   €€† A ‡@AÆÀA  € €€@ €ƒ@  ƒ € Ÿ   €       string    lower    find    attack    table 	   contains 
+   NoAttacks    Attacks                          §  ©   	   F@ €  À€   @€B  À ]A€ €    	   DrawLine       đ?                         «  Ä     S †@ ‡A@Æ@ ÇÀĐÁÀ O†@ ‡A@Æ@ ÇÀĐÁÀ AÆ@ ÇAÀ@ ‚@Â@Ư ÏÁĐaÁ,€FBA †‚A Í ĂA BF@ GCÂƒ ÏĂ]ƒ MCƒ  ]‚  †BA Æ‚A 
+ FĂA GÂ†@ ‡CBÏƒ Î„ƒ ƒƒ Ư ‚  ÆBA ƒA M †@ ‡C@Æ@ ÇƒÀĐĂÀƒ ƒMƒƒ†ĂA ‡BÆ@ ÇCÂ„ F@ GDÀ†@ ‡„@	Ä@	]„ ODPMD†@ ‡D@	Æ@ Ç„À	ĐÄÀ	„ „	„O„„DƯƒ ÍĂƒ  Ư‚  CA FƒA  Æ@ ÇCÀ@ „@Ä@Ưƒ ÏĂĐĂÆĂA ÇÂ@ DBO„ †@ ‡D@	Æ@ Ç„À	ĐÄÀ	„ „	„Æ@ ÇDÀ	@ …@
+Å@
+Ư„ ÏÄĐ	ÍÄÄ	N„„„ „ ] ƒ  GƒÂ@ƒ…À€GƒÂ†C €ƒÀ€GÂ@ƒ… €GÂ†CC €ƒ €GƒÂ@ƒ…@€GƒÂ†C €ƒ@€GÂ@ƒ…€€GÂ†CC €ƒ€€FƒC ‡ƒÂÇÂ„ÂGÂ€€]C GƒB@ƒ…À€GƒB†C €ƒÀ€GB@ƒ… €GB†CC €ƒ €GƒB@ƒ…@€GƒB†C €ƒ@€GB@ƒ…€€GB†CC €ƒ€€FƒC ‡ƒBÇB„BGB€€]C `̉S †@ ‡A@Æ@ ÇÀĐÁÀ O†@ ‡A@Æ@ ÇÀĐÁÀ AÆ@ ÇAÀ@ ‚@Â@Ư ÏÁĐaÁ,€FBA †‚A Æ@ ÇBÂƒ OCƯ‚ ÍÂ ĂA BM‚  ]‚  †BA Æ‚A @ CBOƒ Nƒƒƒ  FĂA GÂ‚ Ư ‚  ÆBA ƒA F@ GCÂƒ Æ@ ÇCÀ@ „@Ä@Ưƒ ÏĂĐÍĂ@ D@F@ G„ÀPÄÀ„ 
+Ï„Ă]ƒ MC †ĂA ‡BÍ‚ @ D@F@ G„ÀPÄÀ„ Í„ Ư‚  CA FƒA †@ ‡CBÏƒ @ D@F@ G„ÀPÄÀ„ 
+F@ GDÀ†@ ‡„@	Ä@	]„ ODPMDDÎ„ƒ ƒ ÆĂA ÇÂ
+‚ F@ GDÀ†@ ‡„@	Ä@	]„ ODP
+D] ƒ  GƒÂ@ƒ…À€GƒÂ†C €ƒÀ€GÂ@ƒ… €GÂ†CC €ƒ €GƒÂ@ƒ…@€GƒÂ†C €ƒ@€GÂ@ƒ…€€GÂ†CC €ƒ€€FƒC ‡ƒÂÇÂ„ÂGÂ€€]C GƒB@ƒ…À€GƒB†C €ƒÀ€GB@ƒ… €GB†CC €ƒ €GƒB@ƒ…@€GƒB†C €ƒ@€GB@ƒ…€€GB†CC €ƒ€€FƒC ‡ƒBÇB„BGB€€]C `̉ €       math    cos    pi       @      đ?   WorldToScreen    D3DXVECTOR3    myHero    y    sqrt    x         	   WINDOW_W 	   WINDOW_H 
+   DrawLineA                          Æ  ̀   
+   G @ L@À Á€  ]€€[   @€FÀÀ G Á ]€€ I   C € I   €       name    find 
+   Q_Rocket_Cas    os    clock        /  .                Î  Đ       €  €                             ̉  Ô       €  €                             Ö  Ø      † @ Á@     Ö   AÁ  À ‚Å€ @  €    	   DrawText           .@     Àr@      $@                         Ü  ̃   	   G @ [   € €E   [@    €E € _   €       isMe        NO                ă  í   *   † @ À   € Á@  @ @   FÁ@ €  ] ‡AÅ€ ÁÇAA Í‚BÁ‚A
+ÂAÂ Í‚B BBG‚B PB‚ …€O‚‚‚ FÂB À€
+MĂC ÆƒC Ä AÄ Ä ÁÄ Ư€]B   €       GetBarWidth      €G@   GetUnitHPBarPos    GetUnitHPBarOffset    x    y       à?      đ?   math    round 
+   maxHealth 	   DrawLine       4@       @   ARGB      ào@         QRP                ï  ñ        @ @@ 
+  
+À@    €       myHero    boundingRadius      h€@     @P@                         ó  ù        @ @@ †€@ €€À@   ‚€€@Á €A F @ L@À Æ€@ ]€€GÀÀ @  
+ €ƒF @ G Â 
+@  
+@B   € €€B  €     €       myHero 
+   GetSpellData    _Q    level            Q    BRange      h€@   boundingRadius      @P@   GetMyRealRangeSimple          !                û  	    
+      E   @À À €F€À ]€€   € € €FÀÀ ]€€   €    €         h€@           GetMyRealRangeSimple    GetMyRealRangeQBased                          	  	   	   Æ @ A  @  AA  †Á@ AÏÀ ÍÁ‚  Ư@  €    	   DrawText           .@	   WINDOW_W      àe@     Àb@                         		  	   %     AA    ÆÁ@  AB B ÁB Ư€‚A FÂA N‚B‚ÆÂA Î‚Í€B
+@€€€B€‚A FÂA N‚M€B‚ÆÂA Î‚ÍB€B
+@€€€B€ € 	        Àc@      @      Y@   ARGB      ào@     €a@	   DrawLine 	   WINDOW_W       .@                         	  	         Á@    FÁ@ †A  ÏAÁ ÍÁA 
+ OBÁ MBMÂ€‚ Å€ ]A€ €         @c@      @      Y@	   DrawLine 	   WINDOW_W       .@       @                         	  ~	    ‘   @ @@ €@    À
+€ € @   
+€À  A  †@A ‡€AÁ  a@€FAA LÁÁÀ ]€‡ÂÆAB À@	€… ÇÂÂB @€‚  ‚  €…€ÇÂĂĐ‚BĂ  @ €… ÁÁ  Â‡FÂC € Á‚    @ ]B€FD †ÂB À€‚ ÇĂÂ‚CÀ  ]B€FBD ‡‚ÄÀ    ]B 
+ A ` ôÀD @C      € €  @ @@  E    @€  F@E ]€€ U €   !€€AE € Á FE € ] [  €€FÁE € ÆF   Ư ]A  E€ [  @€FF € ] ‡B@À
+€FAF € ] €Æ€€F@ GÁÆGÇ@Ç €F@ GAÀGÇ[  À€FÁG †H ÇAH‚HGÂH ]  †I ÁA	 BÈ‚IG‚ÈN‚ÉNÂÉ
+ A€FAJ ]€ …€N@•€€F@ GÁÆGÇ@Ç@€F@ GAÀGÁÊ[   €FK A Æ@ ÇAÀÇË]A€FAJ ]€ I€ Àë @ @@ ÀK    À€ L FÀD G@È †ÀD ‡ÀHÆ@L Ư€€  A @  @ @@ ÀL @G  	€@L €€ F M ]€€ @  À€ L FÀD G@È †ÀD ‡ÀHÆ@M Ư€€ M AÁ
+ Á  Á Â  €A @ €€ L FÀD G@È †ÀD ‡ÀHÆ M Ư€€ M AÁ
+ Á  Á Â  €A @  @ @@ @N     €     @€ L FÀD G@È †ÀD ‡ÀHÆ€ÎÇÀÎ AA @  @ @@  O     €     @€ L FÀD G@È †ÀD ‡ÀHÆ@ÏÇÀÎ AA @  @ ÀF  G @G  $€ @ €O XÀO  #€ @ €O  P    À€ L FÀD G@È †ÀD ‡ÀHÆ @ Ç€ÏÇ@ĐM A  Á Â  €AA @  @ €O €P    €€ L FÀD G@È †ÀD ‡ÀHÆ @ Ç€ÏÇÀĐM A  Á Â  €AA @  L FÀD G@È †ÀD ‡ÀHÆ ÑÇ@ÑM A  Á Â  €AA @  @ ÀQ  R    À€ L FÀD G@È †ÀD ‡ÀHÆ @ ÇÀÑÇ@̉M A  Á Â  €AA @  @ ÀQ €R    À€ L FÀD G@È †ÀD ‡ÀHÆ @ ÇÀÑÇÀ̉M A  Á Â  €AA @  @  S @S    À€ L FÀD G@È †ÀD ‡ÀHÆ @ Ç ÓÇ€ÓM A  Á Â  €AA @  @  S ÀS    À€ L FÀD G@È †ÀD ‡ÀHÆ @ Ç ÓÇ ÔM A  Á Â  €AA @  € Q      GO    DR    DRbr               đ?   heroManager    iCount    GetHero    team    TEAM_ENEMY    health    GetRDamage 
+   maxHealth    dead      ÀR@   DrawHPLine    DrawUltLine    DrawHP 	   charName    myHero    DRpk    GetEnemyHeroes    isValid    DrawDamageLine    GetComboDamage    GetDist      p§@   MD    mode        @   M4sp    WorldToScreen    D3DXVECTOR3    x    y    z    ChInitAndDrawSp    AZAZA_PREPARE_YOR_ASS       P@      >@#   BigFatSprites/others/crosshair.png    Tick      ˆÓ@   M4so 
+   PlaySound 
+   PossibleKill    M4vol    DRaa    DrawFPSCircle    GetMyRealRange       @   DRam    GetMyRealRangeQBased    GetMyRealRangeSimple    ARGB      €Q@     ào@   DRww    W    Range    DRee    E    KO     KOdw    KOwd    KOdr    KOrd    R 	   MinRange      `c@   HA    HAdw    HAwd 	   HAwhdraw    HAwhd    CO    COdw    COwd    COde    COed     	     -S!                €	  •	   J   D      Á@  @ Á@AA  áÀ€Æ@ ̀Á@ Ư€BÁF‚A @À€ÂA @€€  ‚€€ @€@ €ÂA @€€  ‚€€  à€úÁ  AB BAA  á@	€ÆAB ̀ÁÂ@ Ư€Û  À€Ă   €BÁFBC GBÁX@À€‚ĂÀC €ÄB  @€BÄ  €€‚Ä  À€ÂA @€€  ‚€€ @€@ €ÂA @€€  ‚€€  à ö_   €          Y@      đ?   heroManager    iCount    GetHero    team    TEAM_ENEMY    GetDist            objManager    maxObjects 
+   getObject    valid    myHero    type    obj_AI_Minion    dead    visible    bTargetable                          —	  ›	      G @ †@@ ‡ @X€€ €€E € €À À€E  [    €FÀ@ €   ]€ † A €€ €€ @ €F@A ]@€  €       type    myHero       đ?   GetDist    GetMyRealRangeSimple 	   PerformQ          
+                ±  ³        €    	    €            WV                µ  ·        @  €     €       GetInGameTimer                          ¹       A   @  Á€    FÁÀ GÁ@ÁÀ €A€ @  Á€   GÁA @€@?€A 
+€Â„‹  ÁÁ B A áÁ €̀BC Ư‚ Ăà₫ÆĂ ÇÁĂ‚Ă DGBA[B    €AB ‚ ‚€AÂ Ư€‚Ă ÂCF‚Ă GÄ‡E›B    €B Á‚ ]‚€B ‚€F‚Ă GÂĂ†‚Ă ‡DÇ‚EÛB    €ÁB ƒ ‚€Á ]‚€†‚Ă ‡DÇÂBÛB    €ÁB ƒ ‚€ÆÂÅ ƒĂ F@€€ À€  €Ư‚  Û  €.€CÆ ƒF€€ƒ€   -€GĂF†Ç ‡ĂF€ƒÀ+€GCG†ƒÇ €ƒÀ*€
+ÀÇ„LCC ]ƒ X@Ä€%€†È À    ƒ€X@H@€̀ƒHƯƒ ÀÈ@ €A	 À€̀ƒHƯƒ @É@ €A	 @€̀ƒHƯƒ ÀÉ@ €AÁ À
+€̀ƒHƯƒ  Ê@ €AÁ @€̀ƒHƯƒ ̀CÊAD  Ưƒ €Ê@ €AÁ
+ À	€ÆÈ  €@  Ưƒ€€€X@H €̀ƒHƯƒ ÀÈ@ €A	 €€̀ƒHƯƒ @É@ €A	  €̀ƒHƯƒ ÀÉ@ €AÁ €€̀ƒHƯƒ  Ê@ €AÁ  €̀ƒHƯƒ ̀CÊAD  Ưƒ €Ê  €AÁ
+ †Ë ƒ€ ÆCË ÇƒË€KÄ  Jƒ—J„˜JD˜ƯC€ÆĂÀ Çƒ̀ÇẰ Å €ÆĂÀ ÇÍÇCÍÛC   €ÆĂÀ Çƒ̀ÇẰ@Á@€ÆƒÍ Ç @ †Ç ‡ÄM	†„‡N	Ưƒ ÛC  À€ÆCÎ   Ưƒ À€€ÆĂÎ   Ưƒ OÀ 
+€ÆCÏ DÎ @ „ FÇ GÄÍFDG„Ï†Ç ‡ÄM	†„‡ÄO	ÆÇ ÇÄÍ	ÆÄÇĐ	Ưƒ€@@€ÆCĐ „Đ GÄP‡QƯC À€C Å€Ơ€D ¡C€†D„‡ÄK	 	@€†DË ‡DQ	Å€ €D€ €  ư € F        À]@      A@      $@   GO    Patch       đ?     €T@   header        @   pos       @      @      đ¿   Decode1    bit32    lshift    band              ào@      8@       @      0@      @
+   DwordToFloat    bxor    objManager    GetObjectByNetworkId    type    myHero    team    TEAM_ENEMY       :@   DecodeRecallName     lower    recallimproved       @   odinrecall       @   superrecall    odinrecallimproved    sub 	   teleport       @	   GameTime    table    insert    Unit 
+   StartTime 	   Duration    MD    mode    AUS    base2    SimpleHeroCollision 	   charName    Width    GetDist      p—@   GetBaseUltDamage    health    CalcBaseUltTime    Speed    Delay    Accelerate 
+   CastSpell    _R    x    z    remove        X  YTU                     +   [@    €F @ ‡@À €@@€ŒÀÀ A €€‡@A€A@ €ÁÀ ß  Ë € AA  ä@€ K€Á Á B dA€‡€ÇĂ ÏÁÇÁC D Î‚‚€Ï‚Á̀AÄ @  € Ư ß À Ÿ   €       myHero 	   charName    Jinx 
+   GetSpellData    _R    level       đ?             @o@     àu@      |@      Đ?333333Ó?ffffffÖ?   damage 
+   maxHealth    health    CalcDamage                            -   =   @    €   [@  @ €A@ G€@›@    €   Û@    €Á   Á  X À 
+€FA@ GÁ†A@ ‡AAÎA Â €Á  ]€†A@ ‡BÀ€ B €ÏÁ€„ÏAÁÓ€ B@ ‚B@ ‚ Í‚ĐÁ€B@ BA@  Â ‚€B 
+ÂFB@ GÁÂB Á  ]‚€Ă P‚‚
+B
+ @ €PA  
+€  € 
+              math    huge       Y@   max    min      •@     Àb@   pow        @   sqrt      p—@     @@                         .  @   A   Æ @ AÀ A  ‡ÁÀ Ư€ @ GA@   ÇÁ@  A †AA € • Á a€FBA ]‚€ G‚‡‚Á€@€	€‡ÂÁ›  À€X Â@€†BB À€‚ €B €†@ ÇBÀƒ  GĂÀ‚ ÎFĂB € À€]ƒ€†C ‡CCÆC ÇƒĂ €AÄ Ưƒ€ÎĂ‚ƒ ̀ÄƯƒ ÏĂ€€À €@@ €€  `AôC  _  €       Vector    x            z       đ?   GetEnemyHeroes    bInvulnerable    bTargetable     GetDist      @Ÿ@   Cosin    math    sqrt    pow        @   len                          A  H      F @ … € ]  €‡AÀ€ @ €ƒ€ Ÿ b€  ă ₫C   _   €       pairs    Unit          T                I  T      J  €@  Á€  XÀÀÀ€Á  À  XÀÀ ₫  FAA GÁ€€] –@@üŸ   €       pos           đ?           Decode1    string    char                          U  n    V    À @@    X€@ À€ÀÀ  A    À€@Á E   @€GAÀÁ  € € FÂ ‡AB]  ÆÁÀ ÇÁÂÇĂ@ĂÀ €ÆÁÀ ÇĂÇÁĂÄOÇABÇAÄ@À€ÆÄ ÂÄ ‚Ư Å @€†À ‡B@†‚ ‡BEÆÀ ÇBÀÆÂ Ç‚ÅÀ C@ ĂE‚€GF‡‚AM‚‚†BÆ ‚€ N‚‚‚ Å ĂÆ  ƒ €ÆÀ ÇBÀ Ç  €B Î‚ÎB‚À‚ €Î‚ÎB‚€Ç €ÆÂÇ ĂÄ ƒGCBƯB€"€  £Àí €        myHero 	   charName     GO    BUon    pairs 	   Duration       @   GetBaseUltDamage    Unit Í̀̀̀̀̀́?   MD    mode        @   AUS    DmgMod       Y@   health    GetDist    TEAM_ENEMY    CalcBaseUltTime    Speed    Delay    Accelerate 
+   StartTime 	   GameTime ¸…ëQ¸¾?
+   summonerRift    Jinx         ™™™™™©?   LaunchBaseUlt        U  TWV                o  {   A   † @ À € € ›   €€†@@ Œ€@Á@ €€Æ A À À€†@A ‡€A‡ÀAX B €†@A ‡€A‡ÀA@B@
+€†@A ‡€BÁÀ Ă Ö ‡À ›@  @€†@C Æ@@    FA@ GĂFA GÁĂ€ ›@  À€†@A ‡€A‡ÀA@B@€†@A ‡€B‡ D›    €‡@Ä ›   €€†€D ÆÀ@ ÁD GE @  €†€D ÆÀ@ ÁD GE @  €       IsRecalling    myHero    CanUseSpell    _R    READY    GO    MD    mode       đ?       @   AUS    UBB    hash    SimpleHeroCollision 	   charName    Width    base1    visible 
+   CastSpell    x    z          U                                    
